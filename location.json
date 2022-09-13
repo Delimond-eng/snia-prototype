@@ -1,0 +1,1307 @@
+[{
+        "Province": "Bas-Uele",
+        "Territoire": "Aketi",
+        "Secteur": "Aketi",
+        "Coordonees": {
+            "lat": 2.578,
+            "lng": 23.769
+        }
+    },
+    {
+        "Province": "Bas-Uele",
+        "Territoire": "Ango",
+        "Secteur": "Ango",
+        "Coordonees": {
+            "lat": 3.845,
+            "lng": 25.851
+        }
+    },
+    {
+        "Province": "Ituri",
+        "Territoire": "Aru",
+        "Secteur": "Aru",
+        "Coordonees": {
+            "lat": 2.715,
+            "lng": 30.85
+        }
+    },
+    {
+        "Province": "Tshopo",
+        "Territoire": "Bafwasende",
+        "Secteur": "Bafwasende",
+        "Coordonees": {
+            "lat": 0.849,
+            "lng": 27.169
+        }
+    },
+    {
+        "Province": "Kwilu",
+        "Territoire": "Bagata",
+        "Secteur": "Bagata",
+        "Coordonees": {
+            "lat": -3.905,
+            "lng": 17.968
+        }
+    },
+    {
+        "Province": "Bas-Uele",
+        "Territoire": "Bambesa",
+        "Secteur": "Bambesa",
+        "Coordonees": {
+            "lat": 3.297,
+            "lng": 25.703
+        }
+    },
+    {
+        "Province": "Tshopo",
+        "Territoire": "Banalia",
+        "Secteur": "Banalia",
+        "Coordonees": {
+            "lat": 1.365,
+            "lng": 25.329
+        }
+    },
+    {
+        "Province": "quateur",
+        "Territoire": "Basankusu",
+        "Secteur": "Basankusu",
+        "Coordonees": {
+            "lat": 1.063,
+            "lng": 19.781
+        }
+    },
+    {
+        "Province": "Tshopo",
+        "Territoire": "Basoko",
+        "Secteur": "Basoko",
+        "Coordonees": {
+            "lat": 1.063,
+            "lng": 23.599
+        }
+    },
+    {
+        "Province": "Tshuapa",
+        "Territoire": "Befale",
+        "Secteur": "Befale",
+        "Coordonees": {
+            "lat": 0.244,
+            "lng": 20.781
+        }
+    },
+    {
+        "Province": "Nord-Kivu",
+        "Territoire": "Beni",
+        "Secteur": "Beni",
+        "Coordonees": {
+            "lat": 0.31,
+            "lng": 29.449
+        }
+    },
+    {
+        "Province": "quateur",
+        "Territoire": "Bikoro",
+        "Secteur": "Bikoro",
+        "Coordonees": {
+            "lat": -0.92,
+            "lng": 18.116
+        }
+    },
+    {
+        "Province": "Tshuapa",
+        "Territoire": "Boende",
+        "Secteur": "Boende",
+        "Coordonees": {
+            "lat": -0.387,
+            "lng": 20.83
+        }
+    },
+    {
+        "Province": "Tshuapa",
+        "Territoire": "Bokungu",
+        "Secteur": "Bokungu",
+        "Coordonees": {
+            "lat": -0.838,
+            "lng": 22.302
+        }
+    },
+    {
+        "Province": "Mai-Ndombe",
+        "Territoire": "Bolobo",
+        "Secteur": "Bolobo",
+        "Coordonees": {
+            "lat": -2.32,
+            "lng": 16.232
+        }
+    },
+    {
+        "Province": "quateur",
+        "Territoire": "Bolomba",
+        "Secteur": "Bolomba",
+        "Coordonees": {
+            "lat": 0.277,
+            "lng": 19.199
+        }
+    },
+    {
+        "Province": "quateur",
+        "Territoire": "Bomongo",
+        "Secteur": "Bomongo",
+        "Coordonees": {
+            "lat": 1.195,
+            "lng": 18.353
+        }
+    },
+    {
+        "Province": "Bas-Uele",
+        "Territoire": "Bondo",
+        "Secteur": "Bondo",
+        "Coordonees": {
+            "lat": 3.648,
+            "lng": 23.681
+        }
+    },
+    {
+        "Province": "Mongala",
+        "Territoire": "Bongandanga",
+        "Secteur": "Bongandanga",
+        "Coordonees": {
+            "lat": 1.348,
+            "lng": 21
+        }
+    },
+    {
+        "Province": "Nord-Ubangi",
+        "Territoire": "Bosobolo",
+        "Secteur": "Bosobolo",
+        "Coordonees": {
+            "lat": 4.015,
+            "lng": 19.885
+        }
+    },
+    {
+        "Province": "Sud-Ubangi",
+        "Territoire": "Budjala",
+        "Secteur": "Budjala",
+        "Coordonees": {
+            "lat": 2.479,
+            "lng": 19.698
+        }
+    },
+    {
+        "Province": "Haut-Lomami",
+        "Territoire": "Bukama",
+        "Secteur": "Bukama",
+        "Coordonees": {
+            "lat": -9.37,
+            "lng": 25.829
+        }
+    },
+    {
+        "Province": "Kwilu",
+        "Territoire": "Bulungu",
+        "Secteur": "Bulungu",
+        "Coordonees": {
+            "lat": -4.722,
+            "lng": 18.583
+        }
+    },
+    {
+        "Province": "Mongala",
+        "Territoire": "Bumba",
+        "Secteur": "Bumba",
+        "Coordonees": {
+            "lat": 2.002,
+            "lng": 22.533
+        }
+    },
+    {
+        "Province": "Nord-Ubangi",
+        "Territoire": "Businga",
+        "Secteur": "Businga",
+        "Coordonees": {
+            "lat": 3.182,
+            "lng": 20.885
+        }
+    },
+    {
+        "Province": "Bas-Uele",
+        "Territoire": "Buta",
+        "Secteur": "Buta",
+        "Coordonees": {
+            "lat": 2.65,
+            "lng": 24.736
+        }
+    },
+    {
+        "Province": "Kasa central",
+        "Territoire": "Dekese",
+        "Secteur": "Dekese",
+        "Coordonees": {
+            "lat": -3.62,
+            "lng": 21.385
+        }
+    },
+    {
+        "Province": "Kasa central",
+        "Territoire": "Demba",
+        "Secteur": "Demba",
+        "Coordonees": {
+            "lat": -5.668,
+            "lng": 22.247
+        }
+    },
+    {
+        "Province": "Kasa central",
+        "Territoire": "Dibaya",
+        "Secteur": "Dibaya",
+        "Coordonees": {
+            "lat": -6.651,
+            "lng": 22.95
+        }
+    },
+    {
+        "Province": "Lualaba",
+        "Territoire": "Dilolo",
+        "Secteur": "Dilolo",
+        "Coordonees": {
+            "lat": -10.852,
+            "lng": 22.346
+        }
+    },
+    {
+        "Province": "Kasa central",
+        "Territoire": "Dimbelenge",
+        "Secteur": "Dimbelenge",
+        "Coordonees": {
+            "lat": -5.717,
+            "lng": 23.099
+        }
+    },
+    {
+        "Province": "Tshuapa",
+        "Territoire": "Djolu",
+        "Secteur": "Djolu",
+        "Coordonees": {
+            "lat": 0.53,
+            "lng": 22.418
+        }
+    },
+    {
+        "Province": "Ituri",
+        "Territoire": "Djugu",
+        "Secteur": "Djugu",
+        "Coordonees": {
+            "lat": 1.76,
+            "lng": 30.482
+        }
+    },
+    {
+        "Province": "Haut-Uele",
+        "Territoire": "Dungu",
+        "Secteur": "Dungu",
+        "Coordonees": {
+            "lat": 3.445,
+            "lng": 28.564
+        }
+    },
+    {
+        "Province": "Haut-Uele",
+        "Territoire": "Faradje",
+        "Secteur": "Faradje",
+        "Coordonees": {
+            "lat": 3.566,
+            "lng": 29.718
+        }
+    },
+    {
+        "Province": "Kwango",
+        "Territoire": "Feshi",
+        "Secteur": "Feshi",
+        "Coordonees": {
+            "lat": -6.302,
+            "lng": 18.171
+        }
+    },
+    {
+        "Province": "Sud-Kivu",
+        "Territoire": "Fizi",
+        "Secteur": "Fizi",
+        "Coordonees": {
+            "lat": -4.47,
+            "lng": 28.949
+        }
+    },
+    {
+        "Province": "Sud-Ubangi",
+        "Territoire": "Gemena",
+        "Secteur": "Gemena",
+        "Coordonees": {
+            "lat": 3.077,
+            "lng": 19.781
+        }
+    },
+    {
+        "Province": "Kwilu",
+        "Territoire": "Gungu",
+        "Secteur": "Gungu",
+        "Coordonees": {
+            "lat": -5.903,
+            "lng": 19.297
+        }
+    },
+    {
+        "Province": "Kwilu",
+        "Territoire": "Idiofa",
+        "Secteur": "Idiofa",
+        "Coordonees": {
+            "lat": -5.121,
+            "lng": 19.583
+        }
+    },
+    {
+        "Province": "Sud-Kivu",
+        "Territoire": "Idjwi",
+        "Secteur": "Idjwi",
+        "Coordonees": {
+            "lat": -2.276,
+            "lng": 29.059
+        }
+    },
+    {
+        "Province": "Tshuapa",
+        "Territoire": "Ikela",
+        "Secteur": "Ikela",
+        "Coordonees": {
+            "lat": -1.37,
+            "lng": 26.268
+        }
+    },
+    {
+        "Province": "Kasa central",
+        "Territoire": "Ilebo",
+        "Secteur": "Ilebo",
+        "Coordonees": {
+            "lat": -4.502,
+            "lng": 20.588
+        }
+    },
+    {
+        "Province": "quateur",
+        "Territoire": "Ingende",
+        "Secteur": "Ingende",
+        "Coordonees": {
+            "lat": 0.063,
+            "lng": 18.968
+        }
+    },
+    {
+        "Province": "Mai-Ndombe",
+        "Territoire": "Inongo",
+        "Secteur": "Inongo",
+        "Coordonees": {
+            "lat": -2.095,
+            "lng": 18.287
+        }
+    },
+    {
+        "Province": "Ituri",
+        "Territoire": "Irumu",
+        "Secteur": "Irumu",
+        "Coordonees": {
+            "lat": 1.277,
+            "lng": 29.866
+        }
+    },
+    {
+        "Province": "Tshopo",
+        "Territoire": "Isangi",
+        "Secteur": "Isangi",
+        "Coordonees": {
+            "lat": 0.612,
+            "lng": 24.23
+        }
+    },
+    {
+        "Province": "Tanganyika",
+        "Territoire": "Kabalo",
+        "Secteur": "Kabalo",
+        "Coordonees": {
+            "lat": -6.22,
+            "lng": 26.917
+        }
+    },
+    {
+        "Province": "Maniema",
+        "Territoire": "Kabambare",
+        "Secteur": "Kabambare",
+        "Coordonees": {
+            "lat": -4.853,
+            "lng": 27.686
+        }
+    },
+    {
+        "Province": "Sud-Kivu",
+        "Territoire": "Kabare",
+        "Secteur": "Kabare",
+        "Coordonees": {
+            "lat": -2.671,
+            "lng": 28.801
+        }
+    },
+    {
+        "Province": "Kasa oriental",
+        "Territoire": "Kabeya-Kamwanga",
+        "Secteur": "Kabeya-Kamwanga",
+        "Coordonees": {
+            "lat": -6.225,
+            "lng": 23.17
+        }
+    },
+    {
+        "Province": "Lomami",
+        "Territoire": "Kabinda",
+        "Secteur": "Kabinda",
+        "Coordonees": {
+            "lat": -6.302,
+            "lng": 24.483
+        }
+    },
+    {
+        "Province": "Haut-Lomami",
+        "Territoire": "Kabongo",
+        "Secteur": "Kabongo",
+        "Coordonees": {
+            "lat": -7.534,
+            "lng": 25.582
+        }
+    },
+    {
+        "Province": "Kwango",
+        "Territoire": "Kahemba",
+        "Secteur": "Kahemba",
+        "Coordonees": {
+            "lat": -7.469,
+            "lng": 19.001
+        }
+    },
+    {
+        "Province": "Maniema",
+        "Territoire": "Kailo",
+        "Secteur": "Kailo",
+        "Coordonees": {
+            "lat": -2.803,
+            "lng": 26.098
+        }
+    },
+    {
+        "Province": "Sud-Kivu",
+        "Territoire": "Kalehe",
+        "Secteur": "Kalehe",
+        "Coordonees": {
+            "lat": -2.287,
+            "lng": 28.916
+        }
+    },
+    {
+        "Province": "Tanganyika",
+        "Territoire": "Kalemie",
+        "Secteur": "Kalemie",
+        "Coordonees": {
+            "lat": -6.105,
+            "lng": 29.185
+        }
+    },
+    {
+        "Province": "Haut-Katanga",
+        "Territoire": "Kambove",
+        "Secteur": "Kambove",
+        "Coordonees": {
+            "lat": -11.036,
+            "lng": 26.631
+        }
+    },
+    {
+        "Province": "Lomami",
+        "Territoire": "Kamiji",
+        "Secteur": "Kamiji",
+        "Coordonees": {
+            "lat": -6.7,
+            "lng": 23.253
+        }
+    },
+    {
+        "Province": "Haut-Lomami",
+        "Territoire": "Kamina",
+        "Secteur": "Kamina",
+        "Coordonees": {
+            "lat": -8.567,
+            "lng": 24.659
+        }
+    },
+    {
+        "Province": "Kasa central",
+        "Territoire": "Kamonia",
+        "Secteur": "Kamonia",
+        "Coordonees": {
+            "lat": -7.055,
+            "lng": 21.33
+        }
+    },
+    {
+        "Province": "Haut-Lomami",
+        "Territoire": "Kaniama",
+        "Secteur": "Kanyama",
+        "Coordonees": {
+            "lat": -7.686,
+            "lng": 24.181
+        }
+    },
+    {
+        "Province": "Lualaba",
+        "Territoire": "Kapanga",
+        "Secteur": "Kapanga",
+        "Coordonees": {
+            "lat": -10.868,
+            "lng": 22.648
+        }
+    },
+    {
+        "Province": "Kongo central",
+        "Territoire": "Kasangulu",
+        "Secteur": "Kasangulu",
+        "Coordonees": {
+            "lat": -4.754,
+            "lng": 15.183
+        }
+    },
+    {
+        "Province": "Haut-Katanga",
+        "Territoire": "Kasenga",
+        "Secteur": "Kasenga",
+        "Coordonees": {
+            "lat": -10.566,
+            "lng": 28.597
+        }
+    },
+    {
+        "Province": "Maniema",
+        "Territoire": "Kasongo",
+        "Secteur": "Kasongo",
+        "Coordonees": {
+            "lat": -4.617,
+            "lng": 26.647
+        }
+    },
+    {
+        "Province": "Kwango",
+        "Territoire": "Kasongo-Lunda",
+        "Secteur": "Kasongo-Lunda",
+        "Coordonees": {
+            "lat": -6.651,
+            "lng": 16.732
+        }
+    },
+    {
+        "Province": "Sankuru",
+        "Territoire": "Katako-Kombe",
+        "Secteur": "Katako-Kombe",
+        "Coordonees": {
+            "lat": -3.571,
+            "lng": 24.417
+        }
+    },
+    {
+        "Province": "Kasa oriental",
+        "Territoire": "Katanda",
+        "Secteur": "Katanda",
+        "Coordonees": {
+            "lat": -6.498,
+            "lng": 23.901
+        }
+    },
+    {
+        "Province": "Kasa central",
+        "Territoire": "Kazumba",
+        "Secteur": "Kazumba",
+        "Coordonees": {
+            "lat": -6.585,
+            "lng": 22.033
+        }
+    },
+    {
+        "Province": "Kwango",
+        "Territoire": "Kenge",
+        "Secteur": "Kenge 2",
+        "Coordonees": {
+            "lat": -5.017,
+            "lng": 16.985
+        }
+    },
+    {
+        "Province": "Maniema",
+        "Territoire": "Kibombo",
+        "Secteur": "Kibombo",
+        "Coordonees": {
+            "lat": -4.07,
+            "lng": 25.917
+        }
+    },
+    {
+        "Province": "Kongo central",
+        "Territoire": "Kimvula",
+        "Secteur": "Kimvula",
+        "Coordonees": {
+            "lat": -5.903,
+            "lng": 15.969
+        }
+    },
+    {
+        "Province": "Haut-Katanga",
+        "Territoire": "Kipushi",
+        "Secteur": "Kipushi",
+        "Coordonees": {
+            "lat": -11.935,
+            "lng": 27.235
+        }
+    },
+    {
+        "Province": "Mai-Ndombe",
+        "Territoire": "Kiri",
+        "Secteur": "Kiri",
+        "Coordonees": {
+            "lat": -1.667,
+            "lng": 18.929
+        }
+    },
+    {
+        "Province": "Sankuru",
+        "Territoire": "Kole",
+        "Secteur": "Kole",
+        "Coordonees": {
+            "lat": -3.637,
+            "lng": 22.451
+        }
+    },
+    {
+        "Province": "Tanganyika",
+        "Territoire": "Kongolo",
+        "Secteur": "Kongolo",
+        "Coordonees": {
+            "lat": -5.57,
+            "lng": 26.999
+        }
+    },
+    {
+        "Province": "Sud-Ubangi",
+        "Territoire": "Kungu",
+        "Secteur": "Kungu",
+        "Coordonees": {
+            "lat": 2.611,
+            "lng": 19.182
+        }
+    },
+    {
+        "Province": "Mai-Ndombe",
+        "Territoire": "Kutu",
+        "Secteur": "Kutu",
+        "Coordonees": {
+            "lat": -2.885,
+            "lng": 18.083
+        }
+    },
+    {
+        "Province": "Mai-Ndombe",
+        "Territoire": "Kwamouth",
+        "Secteur": "Kwamouth",
+        "Coordonees": {
+            "lat": -3.341,
+            "lng": 16.199
+        }
+    },
+    {
+        "Province": "Sud-Ubangi",
+        "Territoire": "Libenge",
+        "Secteur": "Libenge",
+        "Coordonees": {
+            "lat": 3.478,
+            "lng": 18.633
+        }
+    },
+    {
+        "Province": "Mongala",
+        "Territoire": "Lisala",
+        "Secteur": "Binga",
+        "Coordonees": {
+            "lat": 1.98,
+            "lng": 21.517
+        }
+    },
+    {
+        "Province": "Sankuru",
+        "Territoire": "Lodja",
+        "Secteur": "Lodja",
+        "Coordonees": {
+            "lat": -3.653,
+            "lng": 23.434
+        }
+    },
+    {
+        "Province": "Sankuru",
+        "Territoire": "Lomela",
+        "Secteur": "Lomela",
+        "Coordonees": {
+            "lat": -2.452,
+            "lng": 23.269
+        }
+    },
+    {
+        "Province": "Lomami",
+        "Territoire": "Lubao",
+        "Secteur": "Lubao",
+        "Coordonees": {
+            "lat": -5.471,
+            "lng": 25.719
+        }
+    },
+    {
+        "Province": "Sankuru",
+        "Territoire": "Lubefu",
+        "Secteur": "Lubefu",
+        "Coordonees": {
+            "lat": -4.902,
+            "lng": 24.434
+        }
+    },
+    {
+        "Province": "Nord-Kivu",
+        "Territoire": "Lubero",
+        "Secteur": "Lubero",
+        "Coordonees": {
+            "lat": -0.321,
+            "lng": 29.235
+        }
+    },
+    {
+        "Province": "Kasa central",
+        "Territoire": "Lubudi",
+        "Secteur": "Lubudi",
+        "Coordonees": {
+            "lat": -10.085,
+            "lng": 25.966
+        }
+    },
+    {
+        "Province": "Maniema",
+        "Territoire": "Lubutu",
+        "Secteur": "Lubutu",
+        "Coordonees": {
+            "lat": -0.904,
+            "lng": 26.581
+        }
+    },
+    {
+        "Province": "Kasa central",
+        "Territoire": "Luebo",
+        "Secteur": "Luebo",
+        "Coordonees": {
+            "lat": -5.52,
+            "lng": 21.418
+        }
+    },
+    {
+        "Province": "Lomami",
+        "Territoire": "Luilu",
+        "Secteur": "Luputa",
+        "Coordonees": {
+            "lat": -7.104,
+            "lng": 23.329
+        }
+    },
+    {
+        "Province": "Kasa central",
+        "Territoire": "Luiza",
+        "Secteur": "Luiza",
+        "Coordonees": {
+            "lat": -7.371,
+            "lng": 22.418
+        }
+    },
+    {
+        "Province": "quateur",
+        "Territoire": "Lukolela",
+        "Secteur": "Lukolela",
+        "Coordonees": {
+            "lat": -1.239,
+            "lng": 17.199
+        }
+    },
+    {
+        "Province": "Kongo central",
+        "Territoire": "Lukula",
+        "Secteur": "Lukula",
+        "Coordonees": {
+            "lat": -5.57,
+            "lng": 12.931
+        }
+    },
+    {
+        "Province": "Kongo central",
+        "Territoire": "Luozi",
+        "Secteur": "Luozi",
+        "Coordonees": {
+            "lat": -5.121,
+            "lng": 14.117
+        }
+    },
+    {
+        "Province": "Kasa oriental",
+        "Territoire": "Lupatapata",
+        "Secteur": "Lupatapata",
+        "Coordonees": {
+            "lat": -6.345,
+            "lng": 23.533
+        }
+    },
+    {
+        "Province": "Sankuru",
+        "Territoire": "Lusambo",
+        "Secteur": "Lusambo",
+        "Coordonees": {
+            "lat": -5.137,
+            "lng": 23.434
+        }
+    },
+    {
+        "Province": "Kongo centrale",
+        "Territoire": "Madimba",
+        "Secteur": "Madimba",
+        "Coordonees": {
+            "lat": -5.137,
+            "lng": 15.15
+        }
+    },
+    {
+        "Province": "Ituri",
+        "Territoire": "Mahagi",
+        "Secteur": "Mahagi",
+        "Coordonees": {
+            "lat": 2.128,
+            "lng": 30.981
+        }
+    },
+    {
+        "Province": "quateur",
+        "Territoire": "Mankanza",
+        "Secteur": "Mankanza",
+        "Coordonees": {
+            "lat": 1.431,
+            "lng": 19.149
+        }
+    },
+    {
+        "Province": "Haut-Lomami",
+        "Territoire": "Malemba-Nkulu",
+        "Secteur": "Malemba-Nkulu",
+        "Coordonees": {
+            "lat": -8.171,
+            "lng": 26.829
+        }
+    },
+    {
+        "Province": "Ituri",
+        "Territoire": "Mambasa",
+        "Secteur": "Mambasa",
+        "Coordonees": {
+            "lat": 1.195,
+            "lng": 29.048
+        }
+    },
+    {
+        "Province": "Tanganyika",
+        "Territoire": "Manono",
+        "Secteur": "Manono",
+        "Coordonees": {
+            "lat": -7.469,
+            "lng": 27.416
+        }
+    },
+    {
+        "Province": "Kwilu",
+        "Territoire": "Masi-Manimba",
+        "Secteur": "Masi-Manimba",
+        "Coordonees": {
+            "lat": -4.935,
+            "lng": 17.902
+        }
+    },
+    {
+        "Province": "Nord-Kivu",
+        "Territoire": "Masisi",
+        "Secteur": "Masisi",
+        "Coordonees": {
+            "lat": -1.568,
+            "lng": 28.801
+        }
+    },
+    {
+        "Province": "Kongo central",
+        "Territoire": "Mbanza-Ngungu",
+        "Secteur": "Mbanza-Ngungu",
+        "Coordonees": {
+            "lat": -5.438,
+            "lng": 14.848
+        }
+    },
+    {
+        "Province": "Kasa-Oriental",
+        "Territoire": "Miabi",
+        "Secteur": "Miabi",
+        "Coordonees": {
+            "lat": -6.367,
+            "lng": 23.384
+        }
+    },
+    {
+        "Province": "Haut-Katanga",
+        "Territoire": "Mitwaba",
+        "Secteur": "Mitwaba",
+        "Coordonees": {
+            "lat": -8.801,
+            "lng": 27.328
+        }
+    },
+    {
+        "Province": "Kongo central",
+        "Territoire": "Moanda",
+        "Secteur": "Moanda",
+        "Coordonees": {
+            "lat": -6.105,
+            "lng": 12.349
+        }
+    },
+    {
+        "Province": "Tanganyika",
+        "Territoire": "Moba",
+        "Secteur": "Moba",
+        "Coordonees": {
+            "lat": -7.234,
+            "lng": 29.718
+        }
+    },
+    {
+        "Province": "Nord-Ubangi",
+        "Territoire": "Mobayi-Mbongo",
+        "Secteur": "Mobayi-Mbongo",
+        "Coordonees": {
+            "lat": 4.13,
+            "lng": 21.182
+        }
+    },
+    {
+        "Province": "Tshuapa",
+        "Territoire": "Monkoto",
+        "Secteur": "Monkoto",
+        "Coordonees": {
+            "lat": -1.788,
+            "lng": 20.649
+        }
+    },
+    {
+        "Province": "Mai-Ndombe",
+        "Territoire": "Mushie",
+        "Secteur": "Mushie",
+        "Coordonees": {
+            "lat": -3.187,
+            "lng": 16.919
+        }
+    },
+    {
+        "Province": "Lualaba",
+        "Territoire": "Mutshatsha",
+        "Secteur": "Mutshatsha",
+        "Coordonees": {
+            "lat": -10.82,
+            "lng": 24.45
+        }
+    },
+    {
+        "Province": "Kasa",
+        "Territoire": "Mweka",
+        "Secteur": "Mweka",
+        "Coordonees": {
+            "lat": -5.039,
+            "lng": 21.583
+        }
+    },
+    {
+        "Province": "Sud-Kivu",
+        "Territoire": "Mwenga",
+        "Secteur": "Mwenga",
+        "Coordonees": {
+            "lat": -3.22,
+            "lng": 28.433
+        }
+    },
+    {
+        "Province": "Lomami",
+        "Territoire": "Ngandajika",
+        "Secteur": "Ngandajika",
+        "Coordonees": {
+            "lat": -6.918,
+            "lng": 23.967
+        }
+    },
+    {
+        "Province": "Haut-Uele",
+        "Territoire": "Niangara",
+        "Secteur": "Niangara",
+        "Coordonees": {
+            "lat": 3.5,
+            "lng": 27.883
+        }
+    },
+    {
+        "Province": "Nord-Kivu",
+        "Territoire": "Nyiragongo",
+        "Secteur": "Kibumba",
+        "Coordonees": {
+            "lat": -1.678,
+            "lng": 29.246
+        }
+    },
+    {
+        "Province": "Tanganyika",
+        "Territoire": "Nyunzu",
+        "Secteur": "Nyunzu",
+        "Coordonees": {
+            "lat": -6.121,
+            "lng": 28.015
+        }
+    },
+    {
+        "Province": "Tshopo",
+        "Territoire": "Opala",
+        "Secteur": "Opala",
+        "Coordonees": {
+            "lat": -0.788,
+            "lng": 24.351
+        }
+    },
+    {
+        "Province": "Mai-Ndombe",
+        "Territoire": "Oshwe",
+        "Secteur": "Oshwe",
+        "Coordonees": {
+            "lat": -3.555,
+            "lng": 19.501
+        }
+    },
+    {
+        "Province": "Maniema",
+        "Territoire": "Pangi",
+        "Secteur": "Pangi",
+        "Coordonees": {
+            "lat": -3.352,
+            "lng": 26.631
+        }
+    },
+    {
+        "Province": "Bas-Uele",
+        "Territoire": "Poko",
+        "Secteur": "Poko",
+        "Coordonees": {
+            "lat": 2.929,
+            "lng": 26.966
+        }
+    },
+    {
+        "Province": "Kwango",
+        "Territoire": "Popokabaka",
+        "Secteur": "Popokabaka",
+        "Coordonees": {
+            "lat": -5.887,
+            "lng": 16.584
+        }
+    },
+    {
+        "Province": "Maniema",
+        "Territoire": "Punia",
+        "Secteur": "Punia",
+        "Coordonees": {
+            "lat": -1.639,
+            "lng": 26.45
+        }
+    },
+    {
+        "Province": "Haut-Katanga",
+        "Territoire": "Pweto",
+        "Secteur": "Pweto",
+        "Coordonees": {
+            "lat": -8.638,
+            "lng": 28.9
+        }
+    },
+    {
+        "Province": "Haut-Uele",
+        "Territoire": "Rungu",
+        "Secteur": "Rungu",
+        "Coordonees": {
+            "lat": 3.012,
+            "lng": 27.916
+        }
+    },
+    {
+        "Province": "Nord-Kivu",
+        "Territoire": "Rutshuru",
+        "Secteur": "Rutshuru",
+        "Coordonees": {
+            "lat": -1.354,
+            "lng": 29.449
+        }
+    },
+    {
+        "Province": "Haut-Katanga",
+        "Territoire": "Sakania",
+        "Secteur": "Sakania",
+        "Coordonees": {
+            "lat": -12.916,
+            "lng": 28.548
+        }
+    },
+    {
+        "Province": "Lualaba",
+        "Territoire": "Sandoa",
+        "Secteur": "Sandoa",
+        "Coordonees": {
+            "lat": -9.869,
+            "lng": 22.868
+        }
+    },
+    {
+        "Province": "Kongo central",
+        "Territoire": "Seke-Banza",
+        "Secteur": "Seke-Banza",
+        "Coordonees": {
+            "lat": -5.498,
+            "lng": 13.266
+        }
+    },
+    {
+        "Province": "Sud-Kivu",
+        "Territoire": "Shabunda",
+        "Secteur": "Shabunda",
+        "Coordonees": {
+            "lat": -2.869,
+            "lng": 27.35
+        }
+    },
+    {
+        "Province": "Kongo central",
+        "Territoire": "Songololo",
+        "Secteur": "Songololo",
+        "Coordonees": {
+            "lat": -5.87,
+            "lng": 14.035
+        }
+    },
+    {
+        "Province": "Kongo central",
+        "Territoire": "Tshela",
+        "Secteur": "Tshela",
+        "Coordonees": {
+            "lat": -5.137,
+            "lng": 12.931
+        }
+    },
+    {
+        "Province": "Kasa oriental",
+        "Territoire": "Tshilenge",
+        "Secteur": "Tshilenge",
+        "Coordonees": {
+            "lat": -6.422,
+            "lng": 23.769
+        }
+    },
+    {
+        "Province": "Tshopo",
+        "Territoire": "Ubundu",
+        "Secteur": "Ubundu",
+        "Coordonees": {
+            "lat": -0.519,
+            "lng": 25.417
+        }
+    },
+    {
+        "Province": "Sud-Kivu",
+        "Territoire": "Uvira",
+        "Secteur": "Uvira",
+        "Coordonees": {
+            "lat": -3.604,
+            "lng": 29.136
+        }
+    },
+    {
+        "Province": "Nord-Kivu",
+        "Territoire": "Walikale",
+        "Secteur": "Walikale",
+        "Coordonees": {
+            "lat": -1.585,
+            "lng": 28.032
+        }
+    },
+    {
+        "Province": "Sud-Kivu",
+        "Territoire": "Walungu",
+        "Secteur": "Walungu",
+        "Coordonees": {
+            "lat": -2.803,
+            "lng": 28.669
+        }
+    },
+    {
+        "Province": "Haut-Uele",
+        "Territoire": "Wamba",
+        "Secteur": "Wamba",
+        "Coordonees": {
+            "lat": 1.98,
+            "lng": 27.999
+        }
+    },
+    {
+        "Province": "Haut-Uele",
+        "Territoire": "Watsa",
+        "Secteur": "Watsa",
+        "Coordonees": {
+            "lat": 2.863,
+            "lng": 29.515
+        }
+    },
+    {
+        "Province": "Tshopo",
+        "Territoire": "Yahuma",
+        "Secteur": "Yahuma",
+        "Coordonees": {
+            "lat": 0.964,
+            "lng": 23.115
+        }
+    },
+    {
+        "Province": "Nord-Ubangi",
+        "Territoire": "Yakoma",
+        "Secteur": "Yakoma",
+        "Coordonees": {
+            "lat": 3.708,
+            "lng": 22.302
+        }
+    },
+    {
+        "Province": "Mai-Ndombe",
+        "Territoire": "Yumbi",
+        "Secteur": "Yumbi",
+        "Coordonees": {
+            "lat": -2.068,
+            "lng": 16.567
+        }
+    }
+
+]
