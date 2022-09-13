@@ -252,6 +252,17 @@ ul.list-links li a:hover {
     background-image: linear-gradient(#00bbffe3, transparent);
 }
 
+.hero-search .image-overlay {
+    position: absolute;
+    top: 90px;
+}
+
+.hero-search .image-overlay img {
+    height: 500px;
+    position: relative;
+    opacity: 0.3;
+}
+
 .hero-search .content {
     text-align: center;
     z-index: 999;
@@ -266,7 +277,7 @@ ul.list-links li a:hover {
 }
 
 .hero-search .content .form-group input {
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.836);
     padding: 15px;
     border-radius: 7px;
     font-weight: 600;

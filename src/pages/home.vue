@@ -21,6 +21,9 @@
         </div>
         <!-- Search Box -->
          <div class="hero-search">
+            <div class="image-overlay">
+                <img src="assets/img/congo-dr.svg" class="img-fluid" alt="">
+            </div>
             <div class="content">
 <h1>Tout ce que vous voulez savoir <br> à propos des activités agricoles de la <br> République Démocratique du Congo !</h1>
 <div class="form-group">
