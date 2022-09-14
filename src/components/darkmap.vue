@@ -23,7 +23,7 @@ export default {
         loadMap() {
             const clusterLabelThreshold = 1500;
 
-            const haloColor = "#373837";
+            const haloColor = "#eeee";
             const color = "#f0f0f0";
 
             const clusterConfig = {

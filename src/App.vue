@@ -1,16 +1,16 @@
 <template>
-<div>
-    <nav-header/>
+<div >
     <router-view />
 </div>
 </template>
 
 <script>
-import NavHeader from '@/components/navbar.vue'
+/* eslint-disable */
+import MapPrev from '@/components/sateliteMapView.vue'
 export default {
     name: "App",
     components: {
-        NavHeader
+        MapPrev,
     }
 }
 </script>
