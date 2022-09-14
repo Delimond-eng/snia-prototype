@@ -1,18 +1,26 @@
 <template>
-   <div id="app">
-    <home/>
-   </div>
+<div>
+    <nav-header/>
+    <router-view />
+</div>
 </template>
 
 <script>
-import home from "./pages/home.vue"
-
+import NavHeader from '@/components/navbar.vue'
 export default {
-  name: "App",
-  components: {
-    home
-  },
-};
+    name: "App",
+    components: {
+        NavHeader
+    }
+}
 </script>
 
-
+<style>
+.nav-btn{
+    position:absolute; 
+    background-color:#00b9ff; 
+    color:#fff; 
+    top: 20px; 
+    right: 10px;
+}
+</style>

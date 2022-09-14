@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap');
+
+/*------------------------------------------------------------------
+Project:	Zoner - Real Estate HTML Template
+Version:	1.0
+Last change:	11.1.2015
+Assigned to:	ThemeStarz
+
+[Table of contents]
+
+1. Elements styling
+2. Styling for specific pages
+3. Universal Classes
+4. Header
+5. Footer
+6. Content
+7. Responsive
+
+[Color codes]
+
+Default: #1396e2;
+Grey dark: #2a2a2a;
+Grey medium: #5a5a5a;
+Grey light: #f3f3f3;
+
+[Typography]
+
+Body copy:		'Roboto', sans-serif; 14px;
+Headers:		'Roboto', sans-serif;
+
+-------------------------------------------------------------------*/
+
+
+/* 1. Element Styling */
+
+body {
+    background-color: #fff;
+    color: #5a5a5a;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*  hero search */
+
+.hero-search {
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/hero-2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.hero-search::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(#00bbffe3, transparent);
+}
+
+.hero-search .image-overlay {
+    position: absolute;
+    top: 90px;
+}
+
+.hero-search .image-overlay img {
+    height: 500px;
+    position: relative;
+    opacity: 0.3;
+}
+
+.hero-search .content {
+    text-align: center;
+    z-index: 1;
+}
+
+.hero-search .content h1 {
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+
+.hero-search .content input {
+    background-color: rgba(255, 255, 255, 0.836);
+    padding: 15px;
+    border-radius: 7px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.hero-search .content .btn-search {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 7px;
+    padding: 5px;
+    width: 70px;
+    border: none;
+    background-color: #a4ddf1;
+    color: rgb(71, 70, 70);
+    transition: 1s all;
+}
+
+.hero-search .content .btn-search:hover {
+    background-color: #60cdf5;
+}
+
+.hero-search .content input::placeholder {
+    color: gray;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+}
+
+.logo {
+    color: #fff;
+    font-weight: 900;
+    font-size: 2em;
+    line-height: 40px;
+}
+
+.logo::before {
+    height: 3px;
+    width: 55px;
+    position: absolute;
+    bottom: 8px;
+    left: 25px;
+    content: "";
+    background-color: #fd1d26;
+}
+
+.logo::after {
+    height: 3px;
+    width: 50px;
+    left: 0;
+    position: absolute;
+    bottom: 8px;
+    content: "";
+    background-image: linear-gradient(to right, #00b9ff 50%, #ffff00 50%);
+}
