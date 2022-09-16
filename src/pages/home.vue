@@ -1,28 +1,41 @@
 <template>
 <nav-header msg='home' />
   <!-- Search Box -->
-  <!-- This example requires Tailwind CSS v2.0+ -->
-  <div class="hero-search h-[100vh] overflow-hidden">
-    <div class="content">
-      <div class="container lg:text-center">
-        <h1 class="text-[38px] font-semibold tracking-tight text-yellow-50">
-          <span class="block xl:inline">Tout ce que vous voulez savoir à <br> propos des activités agricoles de la <br>
-          </span>
-          <span
-            class="block text-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 via-yellow-300 to-red-500  xl:inline shadow-sm ">République
-            Démocratique du Congo</span>
-        </h1>
-        <div class="mt-1 mx-auto w-full">
-          <input type="text" name="search-input" id="search-input"
-              class="w-full border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
-              placeholder="Recherche...">
+  <div class="site-wrapper-reveal section-space--pt__120">
+            <!--============ Service Hero Start ============-->
+            <div class="service-hero-wrapper service-hero-space service-hero-bg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 m-auto">
+                            <div class="service-hero-wrap wow move-up animated" style="visibility: visible;">
+                                <div class="image-overlay">
+                                <img src="assets/images/congo-dr.svg" class="img-fluid" alt="">
+                                </div>
+                                <div class="service-hero-text text-center">
+                                
+                                    <h1 class="font-weight--reguler text-black mb-30">Que cherchez-vous ?</h1>
+
+                                    <div class="service-solution-form-wrap me-auto ms-auto">
+                                        <form action="#" method="post">
+                                            <div class="hero-select-form">
+                                                <div class="contact-select">
+                                                    <div class="form-item contact-inner">
+                                                        <span class="inquiry">
+                                                <input class="form-control shadow" type="text" name="" placeholder="Entrez votre recherche..." value="">
+                                            </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <p class="text-black">Tout ce que vous voulez savoir sur les activités agricoles de la RDC.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    <div class="image-overlay">
-      <img src="assets/img/congo-dr.svg" class="img-responsive" alt="">
-    </div>
-  </div>
 
 </template>
 

@@ -45,9 +45,9 @@
       <div class="space-y-10 px-4 pt-10 pb-8">
         <div class="relative inset-x-0 top-full text-sm text-gray-500">
           <!-- Presentational element used to render the bottom shadow, if we put the shadow on the actual panel it pokes out the top, so we use this shorter element to hide the top of the shadow -->
-          <div class="absolute inset-0 top-0 bg-white shadow" aria-hidden="true"></div>
+          <div class="absolute inset-0 top-0 bg-white rounded-[10px] shadow" aria-hidden="true"></div>
 
-          <div class="relative bg-white">
+          <div class="relative bg-white rounded-[10px]">
             <div class="mx-auto max-w-7xl px-8 pb-4">
               <div class="grid grid-cols-2 gap-y-10 gap-x-8 py-16">
                 <div class="col-start-2 grid grid-cols-1 gap-x-8">
@@ -173,7 +173,7 @@
                 </div>
               </div>
               <div class="mt-3 mb-3 sm:mt-0 sm:ml-3">
-              <router-link :to="{name:'map'}" class="flex shadow items-center transition-all duration-500 justify-center rounded-md border border-transparent bg-cyan-100 px-8 py-3 text-base font-medium text-gray-800 hover:bg-cyan-200 md:py-4 md:px-10 md:text-lg"> Preview result</router-link>
+              <router-link :to="{name:'map'}" class="flex shadow items-center transition-all duration-500 justify-center rounded-md border-none border-transparent bg-cyan-600 px-8 py-3 text-base font-medium text-white hover:bg-cyan-200 md:py-2 md:px-10 md:text-lg"> Preview result</router-link>
             </div>
             </div>
 

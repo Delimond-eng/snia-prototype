@@ -1,6 +1,9 @@
 <template>
 <div >
-    <router-view />
+    
+    <div id="main-wrapper">
+        <router-view />
+    </div>
 </div>
 </template>
 

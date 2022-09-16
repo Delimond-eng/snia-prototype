@@ -1,34 +1,65 @@
 <template>
-<div>
-<nav-header/>
-    <div class="bg-white">
-            <div class="mx-auto mt-0 max-w-7xl px-4 sm:px-6 lg:px-8">
-                <div class="flex items-baseline justify-between border-b border-gray-200 pt-6 pb-6">
-                    <h1 class="text-4xl font-bold tracking-tight text-gray-900">Map Reporting</h1>
-                    <router-link :to="{name:'stats'}" class="flex items-center justify-center rounded-md border border-transparent transition-all duration-500 px-4 py-2 text-sm font-medium bg-cyan-500 text-white shadow-sm hover:text-cyan-800 hover:bg-cyan-100">Statistics preview</router-link>
-                </div>
-                <section aria-labelledby="products-heading" class="pt-6 pb-24">
-                   
-                    <div class="grid grid-cols-1 gap-x-8 gap-y-10 lg:grid-cols-1">
-                       
-
-                        <!-- Product grid -->
-                        <div class="lg:col-span-3">
-                            <!-- Replace with your content -->
-                            <div class="rounded-lg border-4 border-dashed border-gray-200 lg:h-[100vh]">
-                            </div>
-                            <!-- /End replace -->
-                        </div>
-                    </div>
-                </section>
-            </div>
+    
+    <div class="p-0 m-0 h-[100vh] w-[100%]">
+        <div class="map-header flex items-center shadow-sm border-l-2 border-cyan-500">
+           <h2 class="map-logo text-black">SNIA</h2>
+           <router-link :to="{name:'stats'}" class="absolute right-4 rounded-md border border-transparent transition-all duration-500 px-4 py-2 text-sm font-medium bg-cyan-500 text-white shadow-sm hover:bg-cyan-800">Statistics preview</router-link>
         </div>
-</div>
-
+        <map-prev url='assets/data.geojson' />
+    </div>
 </template>
 
+
+
 <script>
+    import MapPrev from "@/components/mapJsonGeo.vue"
     export default {
-        name: 'MapPreview'
+        name: 'MapPreview',
+
+        components:{
+            MapPrev
+        }
     }
 </script>
+
+<style>
+.map-header{
+    position: absolute;
+    bottom: 25px;
+    width: 300px;
+    left:25px;
+    height: 66px;
+    background-color: rgb(255, 255, 255);
+    z-index: 999;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+}
+
+.map-logo {
+    font-weight: 900;
+    font-size: 1.7em;
+    line-height: 40px;
+    margin-left: 15px;
+}
+
+.map-logo::before {
+    height: 3px;
+    width: 65px;
+    position: absolute;
+    bottom: 10px;
+    left: 15px;
+    content: "";
+    background-color: #fd1d26;
+}
+
+.map-logo::after {
+    height: 3px;
+    width: 45px;
+    left: 15px;
+    position: absolute;
+    bottom: 10px;
+    content: "";
+    background-image: linear-gradient(to right, #00b9ff 50%, #ffff00 50%);
+}
+
+</style>
