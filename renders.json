@@ -1,0 +1,83 @@
+{
+    "renderer": {
+        "type": "uniqueValue",
+        "field1": "religion",
+        "defaultSymbol": {
+            "color": [170, 170, 170, 255],
+            "size": 6,
+            "angle": 0,
+            "xoffset": 0,
+            "yoffset": 0,
+            "type": "esriSMS",
+            "style": "esriSMSCircle",
+            "outline": {
+                "color": [153, 153, 153, 64],
+                "width": 0.75,
+                "type": "esriSLS",
+                "style": "esriSLSSolid"
+            }
+        },
+        "defaultLabel": "Other",
+        "uniqueValueInfos": [{
+                "value": "Hindu",
+                "label": "Hindu",
+                "symbol": {
+                    "color": [237, 81, 81, 255],
+                    "size": 6,
+                    "angle": 0,
+                    "xoffset": 0,
+                    "yoffset": 0,
+                    "type": "esriSMS",
+                    "style": "esriSMSCircle",
+                    "outline": { "color": [153, 153, 153, 64], "width": 0.75, "type": "esriSLS", "style": "esriSLSSolid" }
+                }
+            },
+            {
+                "value": "Christian",
+                "label": "Christian",
+                "symbol": { "color": [20, 158, 206, 255], "size": 6, "angle": 0, "xoffset": 0, "yoffset": 0, "type": "esriSMS", "style": "esriSMSCircle", "outline": { "color": [153, 153, 153, 64], "width": 0.75, "type": "esriSLS", "style": "esriSLSSolid" } }
+            },
+            {
+                "value": "Muslim",
+                "label": "Muslim",
+                "symbol": { "color": [167, 198, 54, 255], "size": 6, "angle": 0, "xoffset": 0, "yoffset": 0, "type": "esriSMS", "style": "esriSMSCircle", "outline": { "color": [153, 153, 153, 64], "width": 0.75, "type": "esriSLS", "style": "esriSLSSolid" } }
+            },
+            {
+                "value": "Buddhist",
+                "label": "Buddhist",
+                "symbol": { "color": [158, 85, 156, 255], "size": 6, "angle": 0, "xoffset": 0, "yoffset": 0, "type": "esriSMS", "style": "esriSMSCircle", "outline": { "color": [153, 153, 153, 64], "width": 0.75, "type": "esriSLS", "style": "esriSLSSolid" } }
+            },
+            {
+                "value": "Sikh",
+                "label": "Sikh",
+                "symbol": { "color": [252, 146, 31, 255], "size": 6, "angle": 0, "xoffset": 0, "yoffset": 0, "type": "esriSMS", "style": "esriSMSCircle", "outline": { "color": [153, 153, 153, 64], "width": 0.75, "type": "esriSLS", "style": "esriSLSSolid" } }
+            },
+            {
+                "value": "Jain",
+                "label": "Jain",
+                "symbol": { "color": [255, 222, 62, 255], "size": 6, "angle": 0, "xoffset": 0, "yoffset": 0, "type": "esriSMS", "style": "esriSMSCircle", "outline": { "color": [153, 153, 153, 64], "width": 0.75, "type": "esriSLS", "style": "esriSLSSolid" } }
+            },
+            {
+                "value": "Jewish",
+                "label": "Jewish",
+                "symbol": { "color": [247, 137, 216, 255], "size": 6, "angle": 0, "xoffset": 0, "yoffset": 0, "type": "esriSMS", "style": "esriSMSCircle", "outline": { "color": [153, 153, 153, 64], "width": 0.75, "type": "esriSLS", "style": "esriSLSSolid" } }
+            },
+            {
+                "value": "Zoroastrian",
+                "label": "Zoroastrian",
+                "symbol": { "color": [183, 129, 74, 255], "size": 6, "angle": 0, "xoffset": 0, "yoffset": 0, "type": "esriSMS", "style": "esriSMSCircle", "outline": { "color": [153, 153, 153, 64], "width": 0.75, "type": "esriSLS", "style": "esriSLSSolid" } }
+            },
+            {
+                "value": "Spiritualist",
+                "label": "Spiritualist",
+                "symbol": { "color": [60, 175, 153, 255], "size": 6, "angle": 0, "xoffset": 0, "yoffset": 0, "type": "esriSMS", "style": "esriSMSCircle", "outline": { "color": [153, 153, 153, 64], "width": 0.75, "type": "esriSLS", "style": "esriSLSSolid" } }
+            },
+            {
+                "value": "Shinto",
+                "label": "Shinto",
+                "symbol": { "color": [107, 107, 214, 255], "size": 6, "angle": 0, "xoffset": 0, "yoffset": 0, "type": "esriSMS", "style": "esriSMSCircle", "outline": { "color": [153, 153, 153, 64], "width": 0.75, "type": "esriSLS", "style": "esriSLSSolid" } }
+            }
+        ]
+    },
+    "transparency": 0
+}

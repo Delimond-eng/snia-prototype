@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "metadata": { "generated": 1663170368000, "url": "Statistique de données agricoles RDC", "title": "PAM & Min. Agriculture", "status": 200, "api": "1.10.3", "count": 9237 },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "Production": 20.0,
+                "Territoire": "Territoire de Dibaya",
+                "climat": "temp",
+                "sol": "fertile",
+                "time": null,
+                "updated": null,
+                "tz": null,
+                "url": "data.geojson",
+                "detail": "data.geojson",
+                "Population": 45000.0,
+                "type": "Production agricole ",
+                "Province": "Kasaï central"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.95, -6.651, 13]
+            },
+            "id": "nc73768390"
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Production": 50.0,
+                "Territoire": "Territoire de Kibumba",
+                "climat": "froid",
+                "sol": "fertile",
+                "time": null,
+                "updated": null,
+                "tz": null,
+                "url": "data.geojson",
+                "detail": "data.geojson",
+                "Population": 5000000.0,
+                "type": "Production agricole ",
+                "Province": "Nord Kivu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.246, -1.678, 10]
+            },
+            "id": "nc73768391"
+        }
+
+    ],
+    "bbox": [21.33, -7.055, 22.95, -6.651, 3.708, 22.302]
+}
