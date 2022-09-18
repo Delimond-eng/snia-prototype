@@ -1,6 +1,6 @@
 <template>
   <div id="viewDiv" class="shadow">
-    <div id="baseMapDiv" class="h-[100px]"></div>
+    <div id="baseMapDiv" style="height: 100px; width: 100px"></div>
   </div>
 </template>
 
@@ -110,21 +110,19 @@ export default {
           {
             type: "color",
             field: "climat_id",
+            label:'climat_libelle',
             legendOptions: {
               showLegend: true,
             },
             stops: [
-              { value: 1, color: "orange" },
-              { value: 2, color: "red" },
-              { value: 3, color: "cyan" },
+              { value: 1, color: "#2a1a8a" },
+              { value: 2, color: "#de4fa6" },
+              { value: 3, color: "#4fadd0" },
             ],
           },
           {
             type: "size",
             field: "Production",
-            legendOptions: {
-              showLegend: true,
-            },
             minDataValue: 100,
             maxDataValue: 2000,
             minSize: 8,
@@ -132,6 +130,7 @@ export default {
           },
         ],
       };
+
       const geojsonLayer = new GeoJSONLayer({
         url: url,
         copyright: "Analyse de données agricoles de la Rep. Dem. du Congo",
@@ -142,7 +141,7 @@ export default {
         },
       });
       const map = new Map({
-        basemap: "gray-vector",
+        basemap: "topo-vector",
         layers: [geojsonLayer],
       });
       const view = new MapView({
@@ -152,6 +151,11 @@ export default {
         map: map,
       });
       const basemapGallery = new BasemapGallery({
+        view: view,
+        container: "baseMapDiv",
+      });
+
+      const legend = new Legend({
         view: view,
       });
 
@@ -172,12 +176,21 @@ export default {
       const search = new Search({
         view: view,
       });
+      //basemap
       view.ui.add(basemapGallery, "bottom-right");
-      // places the search widget in the top right corner of the view
+      //map legend
+      legend.style = "card";
+      view.ui.add(legend, "bottom-left");
+      //search bar
       view.ui.add(search, "top-right");
-
+      //view loading init
       view.when(() => {
         this.isLoading = false;
+
+        const layer = view.map.layers.getItemAt(0);
+        layer.title =
+          "Présentation cartographique des activités agricoles de la RDC";
+        
         console.log("Map ready");
       });
     },
