@@ -73,7 +73,10 @@ export default {
                 fieldName: "Production",
               },
               {
-                fieldName: "Population",
+                fieldName: "Production_unite",
+              },
+              {
+                fieldName: "Nbre_agriculteur",
               },
               {
                 fieldName: "Territoire",
@@ -81,21 +84,13 @@ export default {
               {
                 fieldName: "Province",
               },
+              {
+                fieldName: "climat_libelle",
+              },
+              {
+                fieldName: "sol",
+              },
             ],
-          },
-        ],
-        expressionInfos: [
-          {
-            expression: "$features.properties.Production + tonnes/mois",
-          },
-          {
-            expression: "$features.properties.Population",
-          },
-          {
-            expression: "$features.properties.Territoire",
-          },
-          {
-            expression: "$features.properties.Province",
           },
         ],
       };
@@ -114,14 +109,26 @@ export default {
         visualVariables: [
           {
             type: "color",
-            field: "Production",
+            field: "climat_id",
+            legendOptions: {
+              showLegend: true,
+            },
             stops: [
-              { value: 20, color: "red", size: "10px" },
-              { value: 35, color: "orange", size: "15px" },
-              { value: 50, color: "cyan", size: "20px" },
-              { value: 65, color: "lime", size: "25px" },
-              { value: 80, color: "green", size: "30px" },
+              { value: 1, color: "orange" },
+              { value: 2, color: "red" },
+              { value: 3, color: "cyan" },
             ],
+          },
+          {
+            type: "size",
+            field: "Production",
+            legendOptions: {
+              showLegend: true,
+            },
+            minDataValue: 100,
+            maxDataValue: 2000,
+            minSize: 8,
+            maxSize: 18,
           },
         ],
       };
@@ -135,7 +142,7 @@ export default {
         },
       });
       const map = new Map({
-        basemap: "hybrid",
+        basemap: "gray-vector",
         layers: [geojsonLayer],
       });
       const view = new MapView({
@@ -148,7 +155,7 @@ export default {
         view: view,
       });
 
-      const layerList = new LayerList({
+      /*const layerList = new LayerList({
         view: view,
         listItemCreatedFunction: (event) => {
           const item = event.item;
@@ -160,12 +167,12 @@ export default {
             };
           }
         },
-      });
+      });*/
 
       const search = new Search({
         view: view,
       });
-      view.ui.add(layerList, "bottom-right");
+      view.ui.add(basemapGallery, "bottom-right");
       // places the search widget in the top right corner of the view
       view.ui.add(search, "top-right");
 

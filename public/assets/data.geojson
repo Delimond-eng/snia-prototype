@@ -5,10 +5,10 @@
             "type": "Feature",
             "properties": {
                 "Production": 120.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Ango",
                 "Province": "Bas-Uele",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
@@ -25,10 +25,10 @@
             "type": "Feature",
             "properties": {
                 "Production": 80.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Aru",
                 "Province": "Ituri",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
@@ -45,15 +45,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 50.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bafwasende",
                 "Province": "Tshopo",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7500.0
+                "Nbre_agriculteur": 7500.0
             },
             "geometry": {
                 "type": "Point",
@@ -65,15 +65,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 150.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bagata",
                 "Province": "Kwilu",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7500.0
+                "Nbre_agriculteur": 7500.0
             },
             "geometry": {
                 "type": "Point",
@@ -85,15 +85,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 150.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bambesa",
                 "Province": "Bas-Uele",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7500.0
+                "Nbre_agriculteur": 7500.0
             },
             "geometry": {
                 "type": "Point",
@@ -105,15 +105,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 435.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Banalia",
                 "Province": "Tshopo",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7500.0
+                "Nbre_agriculteur": 7500.0
             },
             "geometry": {
                 "type": "Point",
@@ -126,15 +126,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 2000.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Basankusu",
                 "Province": "Equateur",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5000000.0
+                "Nbre_agriculteur": 5000000.0
             },
             "geometry": {
                 "type": "Point",
@@ -147,15 +147,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 1200.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Basoko",
                 "Province": "Tshopo",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5000.0
+                "Nbre_agriculteur": 5000.0
             },
             "geometry": {
                 "type": "Point",
@@ -164,20 +164,20 @@
             "id": "nc73768397"
         },
 
-        
+
         {
             "type": "Feature",
             "properties": {
                 "Production": 500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Befale",
                 "Province": "Tshuapa",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5000.0
+                "Nbre_agriculteur": 5000.0
             },
             "geometry": {
                 "type": "Point",
@@ -189,15 +189,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 5000.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Beni",
                 "Province": "Nord-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":15000.0
+                "Nbre_agriculteur": 15000.0
             },
             "geometry": {
                 "type": "Point",
@@ -210,15 +210,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 5500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bikoro",
                 "Province": "Equateur",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":25000.0
+                "Nbre_agriculteur": 25000.0
             },
             "geometry": {
                 "type": "Point",
@@ -231,15 +231,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 6500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Boende",
                 "Province": "Tshuapa",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":18000.0
+                "Nbre_agriculteur": 18000.0
             },
             "geometry": {
                 "type": "Point",
@@ -252,35 +252,34 @@
             "type": "Feature",
             "properties": {
                 "Production": 8700.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bokungu",
                 "Province": "Tshuapa",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":18000.0
+                "Nbre_agriculteur": 18000.0
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [22.302, -0.838]
             },
             "id": "nc73768312"
-        }
-        ,{
+        }, {
             "type": "Feature",
             "properties": {
                 "Production": 800.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bolobo",
                 "Province": "Mai-Ndombe",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":25000.0
+                "Nbre_agriculteur": 25000.0
             },
             "geometry": {
                 "type": "Point",
@@ -292,15 +291,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 800.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bolomba",
                 "Province": "Equateur",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équateur",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":25000.0
+                "Nbre_agriculteur": 25000.0
             },
             "geometry": {
                 "type": "Point",
@@ -313,15 +312,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 950.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bomongo",
                 "Province": "Equateur",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équateur",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":18560.0
+                "Nbre_agriculteur": 18560.0
             },
             "geometry": {
                 "type": "Point",
@@ -334,15 +333,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 950.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bondo",
                 "Province": "Bas-Uele",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":18560.0
+                "Nbre_agriculteur": 18560.0
             },
             "geometry": {
                 "type": "Point",
@@ -354,15 +353,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 1200.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bongandanga",
                 "Province": "Mongala ",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équateur",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6000.0
+                "Nbre_agriculteur": 6000.0
             },
             "geometry": {
                 "type": "Point",
@@ -375,19 +374,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 4500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bosobolo",
                 "Province": "Nord-Ubangi ",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équateur",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":67500.0
+                "Nbre_agriculteur": 67500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [19.885,  4.015]
+                "coordinates": [19.885, 4.015]
             },
             "id": "nc73768318"
         },
@@ -396,19 +395,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 2500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Budjala",
                 "Province": "Sud-Ubangi ",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équateur",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":67500.0
+                "Nbre_agriculteur": 67500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [19.698,  2.479]
+                "coordinates": [19.698, 2.479]
             },
             "id": "nc73768319"
         },
@@ -416,19 +415,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 6700.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bukama",
                 "Province": "Haut-Lomami ",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":67500.0
+                "Nbre_agriculteur": 67500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [25.829,  -9.37]
+                "coordinates": [25.829, -9.37]
             },
             "id": "nc73768320"
         },
@@ -436,19 +435,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 6700.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bulungu",
                 "Province": "Kwilu",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7750.0
+                "Nbre_agriculteur": 7750.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [18.583,  -4.722]
+                "coordinates": [18.583, -4.722]
             },
             "id": "nc73768321"
         },
@@ -457,19 +456,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 5500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Bumba",
                 "Province": "Mongala",
-                "climat_id":2,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6800.0
+                "Nbre_agriculteur": 6800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [22.533,  2.002]
+                "coordinates": [22.533, 2.002]
             },
             "id": "nc73768322"
         },
@@ -478,19 +477,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 5560.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Businga",
                 "Province": "Nord-Ubangi",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6800.0
+                "Nbre_agriculteur": 6800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [20.885,  3.182]
+                "coordinates": [20.885, 3.182]
             },
             "id": "nc73768323"
         },
@@ -499,19 +498,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 1200.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Buta",
                 "Province": "Bas-Uele",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5200.0
+                "Nbre_agriculteur": 5200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [24.736,  2.65]
+                "coordinates": [24.736, 2.65]
             },
             "id": "nc73768324"
         },
@@ -520,15 +519,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 4500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Dekese",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7800.0
+                "Nbre_agriculteur": 7800.0
             },
             "geometry": {
                 "type": "Point",
@@ -541,15 +540,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 4500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Demba",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7800.0
+                "Nbre_agriculteur": 7800.0
             },
             "geometry": {
                 "type": "Point",
@@ -562,15 +561,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 3500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Dibaya",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":850.0
+                "Nbre_agriculteur": 850.0
             },
             "geometry": {
                 "type": "Point",
@@ -583,15 +582,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 3500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Dibaya",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":850.0
+                "Nbre_agriculteur": 850.0
             },
             "geometry": {
                 "type": "Point",
@@ -604,15 +603,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 4900.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Dilolo",
                 "Province": "Lualaba",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3000.0
+                "Nbre_agriculteur": 3000.0
             },
             "geometry": {
                 "type": "Point",
@@ -624,36 +623,35 @@
             "type": "Feature",
             "properties": {
                 "Production": 500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Dimbelenge",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1565.0
+                "Nbre_agriculteur": 1565.0
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [23.099, -5.717]
             },
             "id": "nc73768330"
-        } 
-        ,
+        },
         {
             "type": "Feature",
             "properties": {
                 "Production": 1500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Djolu",
                 "Province": "Tshuapa",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1565.0
+                "Nbre_agriculteur": 1565.0
             },
             "geometry": {
                 "type": "Point",
@@ -665,15 +663,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 1500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Djugu",
                 "Province": "Ituri",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2565.0
+                "Nbre_agriculteur": 2565.0
             },
             "geometry": {
                 "type": "Point",
@@ -685,15 +683,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 1500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Dungu",
                 "Province": "Haut-Uele",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2565.0
+                "Nbre_agriculteur": 2565.0
             },
             "geometry": {
                 "type": "Point",
@@ -705,15 +703,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 1500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Faradje",
                 "Province": "Haut-Uele",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2565.0
+                "Nbre_agriculteur": 2565.0
             },
             "geometry": {
                 "type": "Point",
@@ -726,15 +724,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 1500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Feshi",
                 "Province": "Kwango",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2565.0
+                "Nbre_agriculteur": 2565.0
             },
             "geometry": {
                 "type": "Point",
@@ -747,15 +745,15 @@
             "type": "Feature",
             "properties": {
                 "Production": 1500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Fizi",
                 "Province": "Sud-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2565.0
+                "Nbre_agriculteur": 2565.0
             },
             "geometry": {
                 "type": "Point",
@@ -767,19 +765,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 3500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Gemena",
                 "Province": "Sud-Ubangi",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6250.0
+                "Nbre_agriculteur": 6250.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [19.781,-5.903]
+                "coordinates": [19.781, -5.903]
             },
             "id": "nc73768336"
         },
@@ -788,19 +786,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 3500.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Gungu",
                 "Province": "Kwilu",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6250.0
+                "Nbre_agriculteur": 6250.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [19.297,-5.903]
+                "coordinates": [19.297, -5.903]
             },
             "id": "nc73768336"
         },
@@ -809,19 +807,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 2510.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Idiofa",
                 "Province": "Kwilu",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6800.0
+                "Nbre_agriculteur": 6800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [19.583,-5.121]
+                "coordinates": [19.583, -5.121]
             },
             "id": "nc73768337"
         },
@@ -829,19 +827,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 2510.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Idjwi",
                 "Province": "Sud-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5800.0
+                "Nbre_agriculteur": 5800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29.059,-2.276]
+                "coordinates": [29.059, -2.276]
             },
             "id": "nc73768338"
         },
@@ -849,19 +847,19 @@
             "type": "Feature",
             "properties": {
                 "Production": 2510.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Ikela",
                 "Province": "Tshuapa",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6000.0
+                "Nbre_agriculteur": 6000.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29.059,-2.276]
+                "coordinates": [29.059, -2.276]
             },
             "id": "nc73768339"
         },
@@ -870,120 +868,119 @@
             "type": "Feature",
             "properties": {
                 "Production": 5002.0,
-                "Production_unite":"tonnes",
+                "Production_unite": "tonnes",
                 "Territoire": "Ilebo",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7000.0
+                "Nbre_agriculteur": 7000.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [20.588,-4.502]
+                "coordinates": [20.588, -4.502]
             },
             "id": "nc73768340"
-        }
-        ,
+        },
         {
             "type": "Feature",
             "properties": {
-                "Production":6520.0,
-                "Production_unite":"tonnes",
+                "Production": 6520.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Ingende",
                 "Province": "Equateur",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8500.0
+                "Nbre_agriculteur": 8500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [18.968,0.063]
+                "coordinates": [18.968, 0.063]
             },
             "id": "nc73768341"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":6520.0,
-                "Production_unite":"tonnes",
+                "Production": 6520.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Inongo",
                 "Province": "Mai-Ndombe",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8500.0
+                "Nbre_agriculteur": 8500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [18.287,-2.095]
+                "coordinates": [18.287, -2.095]
             },
             "id": "nc73768342"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":6520.0,
-                "Production_unite":"tonnes",
+                "Production": 6520.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Irunu",
                 "Province": "Ituri",
-                "climat_id":1,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8500.0
+                "Nbre_agriculteur": 8500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29.866,1.277]
+                "coordinates": [29.866, 1.277]
             },
             "id": "nc73768343"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":6520.0,
-                "Production_unite":"tonnes",
+                "Production": 6520.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Isangi",
                 "Province": "Tshopo",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8500.0
+                "Nbre_agriculteur": 8500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [24.23,0.612]
+                "coordinates": [24.23, 0.612]
             },
             "id": "nc73768344"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":6520.0,
-                "Production_unite":"tonnes",
+                "Production": 6520.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kabalo",
                 "Province": "Tanganyika",
-                "climat_id":1,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8500.0
+                "Nbre_agriculteur": 8500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [26.917,-6.22]
+                "coordinates": [26.917, -6.22]
             },
             "id": "nc73768345"
         },
@@ -991,120 +988,120 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":5025.0,
-                "Production_unite":"tonnes",
+                "Production": 5025.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kabambare",
                 "Province": "Maniema",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":12500.0
+                "Nbre_agriculteur": 12500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [27.686,-4.853]
+                "coordinates": [27.686, -4.853]
             },
             "id": "nc73768346"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":5025.0,
-                "Production_unite":"tonnes",
+                "Production": 5025.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kabare",
                 "Province": "Sud-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":12500.0
+                "Nbre_agriculteur": 12500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 28.801,-2.671]
+                "coordinates": [28.801, -2.671]
             },
             "id": "nc73768347"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":125.0,
-                "Production_unite":"tonnes",
+                "Production": 125.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kabeya-kamwanga",
                 "Province": "Kasaï-Oriental",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1200.0
+                "Nbre_agriculteur": 1200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 23.17,-6.225]
+                "coordinates": [23.17, -6.225]
             },
             "id": "nc73768348"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":125.0,
-                "Production_unite":"tonnes",
+                "Production": 125.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kabinda",
                 "Province": "Lomami",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1200.0
+                "Nbre_agriculteur": 1200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [24.483,-6.302]
+                "coordinates": [24.483, -6.302]
             },
             "id": "nc73768349"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":450.0,
-                "Production_unite":"tonnes",
+                "Production": 450.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kabongo",
                 "Province": "Haut-Lomami ",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1650.0
+                "Nbre_agriculteur": 1650.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [25.582,-7.534]
+                "coordinates": [25.582, -7.534]
             },
             "id": "nc73768350"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":5560.0,
-                "Production_unite":"tonnes",
+                "Production": 5560.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kahemba",
                 "Province": "Kwango ",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":11780.0
+                "Nbre_agriculteur": 11780.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [19.001,-7.469]
+                "coordinates": [19.001, -7.469]
             },
             "id": "nc73768351"
         },
@@ -1112,40 +1109,40 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":2500.0,
-                "Production_unite":"tonnes",
+                "Production": 2500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kailo",
                 "Province": "Maniema ",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1800.0
+                "Nbre_agriculteur": 1800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [26.098,-2.803]
+                "coordinates": [26.098, -2.803]
             },
             "id": "nc73768352"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1320.0,
-                "Production_unite":"tonnes",
+                "Production": 1320.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kalehe",
                 "Province": "Sud-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1250.0
+                "Nbre_agriculteur": 1250.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28.916,-2.287]
+                "coordinates": [28.916, -2.287]
             },
             "id": "nc73768353"
         },
@@ -1153,200 +1150,200 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":4500.0,
-                "Production_unite":"tonnes",
+                "Production": 4500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kalemie",
                 "Province": "Tanganyika",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5800.0
+                "Nbre_agriculteur": 5800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29.185,-6.105]
+                "coordinates": [29.185, -6.105]
             },
             "id": "nc73768354"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1500.0,
-                "Production_unite":"tonnes",
+                "Production": 1500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kambove",
                 "Province": "Haut-Katanga",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6500.0
+                "Nbre_agriculteur": 6500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [26.631,-11.036]
+                "coordinates": [26.631, -11.036]
             },
             "id": "nc73768355"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":520.0,
-                "Production_unite":"tonnes",
+                "Production": 520.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kamiji",
                 "Province": "Lomami",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1250.0
+                "Nbre_agriculteur": 1250.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 23.253,-6.7]
+                "coordinates": [23.253, -6.7]
             },
             "id": "nc73768356"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1520.0,
-                "Production_unite":"tonnes",
+                "Production": 1520.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kamina",
                 "Province": "Haut-Lomami",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6800.0
+                "Nbre_agriculteur": 6800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [24.659,-8.567]
+                "coordinates": [24.659, -8.567]
             },
             "id": "nc73768357"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":525.0,
-                "Production_unite":"tonnes",
+                "Production": 525.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kamonia",
                 "Province": "Kasaï-Oriental",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1200.0
+                "Nbre_agriculteur": 1200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [21.33,-7.055]
+                "coordinates": [21.33, -7.055]
             },
             "id": "nc73768358"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1525.0,
-                "Production_unite":"tonnes",
+                "Production": 1525.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kanyama",
                 "Province": "Haut-Lomami ",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7800.0
+                "Nbre_agriculteur": 7800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [24.181,-7.686]
+                "coordinates": [24.181, -7.686]
             },
             "id": "nc73768359"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1125.0,
-                "Production_unite":"tonnes",
+                "Production": 1125.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kapanga",
                 "Province": "Lualaba",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6520.0
+                "Nbre_agriculteur": 6520.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [22.648,-10.868]
+                "coordinates": [22.648, -10.868]
             },
             "id": "nc73768360"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1525.0,
-                "Production_unite":"tonnes",
+                "Production": 1525.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kanyama",
                 "Province": "Haut-Lomami ",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7800.0
+                "Nbre_agriculteur": 7800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [24.181,-7.686]
+                "coordinates": [24.181, -7.686]
             },
             "id": "nc73768359"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1125.0,
-                "Production_unite":"tonnes",
+                "Production": 1125.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kapanga",
                 "Province": "Lualaba",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6520.0
+                "Nbre_agriculteur": 6520.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [22.648,-10.868]
+                "coordinates": [22.648, -10.868]
             },
             "id": "nc73768360"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":2500.0,
-                "Production_unite":"tonnes",
+                "Production": 2500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kasangulu",
                 "Province": "Kongo-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7000.0
+                "Nbre_agriculteur": 7000.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [15.183,-4.754]
+                "coordinates": [15.183, -4.754]
             },
             "id": "nc73768361"
         },
@@ -1354,20 +1351,20 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":3500.0,
-                "Production_unite":"tonnes",
+                "Production": 3500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kasenga",
                 "Province": "Haut-Katanga",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8200.0
+                "Nbre_agriculteur": 8200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28.597,-10.566]
+                "coordinates": [28.597, -10.566]
             },
             "id": "nc73768362"
         },
@@ -1375,120 +1372,120 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":1400.0,
-                "Production_unite":"tonnes",
+                "Production": 1400.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kasongo",
                 "Province": "Maniema",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5250.0
+                "Nbre_agriculteur": 5250.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [26.647,-4.617]
+                "coordinates": [26.647, -4.617]
             },
             "id": "nc73768363"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":720.0,
-                "Production_unite":"tonnes",
+                "Production": 720.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kasongo-Lunda",
                 "Province": "Kwango",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3500.0
+                "Nbre_agriculteur": 3500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [16.732,-6.651]
+                "coordinates": [16.732, -6.651]
             },
             "id": "nc73768364"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1500.0,
-                "Production_unite":"tonnes",
+                "Production": 1500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Katako-Kombe",
                 "Province": "Sankuru",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4580.0
+                "Nbre_agriculteur": 4580.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [24.417,-3.571]
+                "coordinates": [24.417, -3.571]
             },
             "id": "nc73768365"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1500.0,
-                "Production_unite":"tonnes",
+                "Production": 1500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Katanda",
                 "Province": "Kasaï-Oriental",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4580.0
+                "Nbre_agriculteur": 4580.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [23.901,-6.498]
+                "coordinates": [23.901, -6.498]
             },
             "id": "nc73768366"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":850.0,
-                "Production_unite":"tonnes",
+                "Production": 850.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kazumba",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3200.0
+                "Nbre_agriculteur": 3200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [22.033,-6.585]
+                "coordinates": [22.033, -6.585]
             },
             "id": "nc73768367"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":750.0,
-                "Production_unite":"tonnes",
+                "Production": 750.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kenge",
                 "Province": "Kwango",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2500.0
+                "Nbre_agriculteur": 2500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [16.985,-5.017]
+                "coordinates": [16.985, -5.017]
             },
             "id": "nc73768368"
         },
@@ -1496,300 +1493,300 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":850.0,
-                "Production_unite":"tonnes",
+                "Production": 850.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kibombo",
                 "Province": "Maniema ",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2630.0
+                "Nbre_agriculteur": 2630.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [25.917,-4.07]
+                "coordinates": [25.917, -4.07]
             },
             "id": "nc73768369"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":850.0,
-                "Production_unite":"tonnes",
+                "Production": 850.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kimvula",
                 "Province": "Kongo-Central",
-                "climat_id":3,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2630.0
+                "Nbre_agriculteur": 2630.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [15.969,-5.903]
+                "coordinates": [15.969, -5.903]
             },
             "id": "nc73768370"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1500.0,
-                "Production_unite":"tonnes",
+                "Production": 1500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kipushi",
                 "Province": "Haut-Katanga",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3500.0
+                "Nbre_agriculteur": 3500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [27.235,-11.935]
+                "coordinates": [27.235, -11.935]
             },
             "id": "nc73768371"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":800.0,
-                "Production_unite":"tonnes",
+                "Production": 800.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kiri",
                 "Province": "Mai-Ndombe",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5400.0
+                "Nbre_agriculteur": 5400.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [18.929,-1.667]
+                "coordinates": [18.929, -1.667]
             },
             "id": "nc73768371"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kole",
                 "Province": "Sankuru",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6200.0
+                "Nbre_agriculteur": 6200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [22.451,-3.637]
+                "coordinates": [22.451, -3.637]
             },
             "id": "nc73768371"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kongolo",
                 "Province": "Tanganyika",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6280.0
+                "Nbre_agriculteur": 6280.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [26.999,-5.57]
+                "coordinates": [26.999, -5.57]
             },
             "id": "nc73768372"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":2400.0,
-                "Production_unite":"tonnes",
+                "Production": 2400.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kungu",
                 "Province": "Sud-Ubangi",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8500.0
+                "Nbre_agriculteur": 8500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [19.182,2.611]
+                "coordinates": [19.182, 2.611]
             },
             "id": "nc73768373"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1250.0,
-                "Production_unite":"tonnes",
+                "Production": 1250.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kutu",
                 "Province": "Mai-Ndombe",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5400.0
+                "Nbre_agriculteur": 5400.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [18.083,-2.885]
+                "coordinates": [18.083, -2.885]
             },
             "id": "nc73768374"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":850.0,
-                "Production_unite":"tonnes",
+                "Production": 850.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Kwamouth",
                 "Province": "Mai-Ndombe",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3200.0
+                "Nbre_agriculteur": 3200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [16.199,-3.341]
+                "coordinates": [16.199, -3.341]
             },
             "id": "nc73768375"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1400.0,
-                "Production_unite":"tonnes",
+                "Production": 1400.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Libenge",
                 "Province": "Sud-Ubangi ",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5240.0
+                "Nbre_agriculteur": 5240.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [18.633,3.478]
+                "coordinates": [18.633, 3.478]
             },
             "id": "nc73768376"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":2400.0,
-                "Production_unite":"tonnes",
+                "Production": 2400.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lisala",
                 "Province": "Mungala ",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8500.0
+                "Nbre_agriculteur": 8500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [21.517,1.98]
+                "coordinates": [21.517, 1.98]
             },
             "id": "nc73768377"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":2400.0,
-                "Production_unite":"tonnes",
+                "Production": 2400.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lodja",
                 "Province": "Sankuru",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8500.0
+                "Nbre_agriculteur": 8500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [23.434,-3.653]
+                "coordinates": [23.434, -3.653]
             },
             "id": "nc73768378"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":2400.0,
-                "Production_unite":"tonnes",
+                "Production": 2400.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lomela",
                 "Province": "Sankuru",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8500.0
+                "Nbre_agriculteur": 8500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ 23.269,-2.452]
+                "coordinates": [23.269, -2.452]
             },
             "id": "nc73768379"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1240.0,
-                "Production_unite":"tonnes",
+                "Production": 1240.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lubao",
                 "Province": "Lomami",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4200.0
+                "Nbre_agriculteur": 4200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [25.719,-5.471]
+                "coordinates": [25.719, -5.471]
             },
             "id": "nc73768380"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":950.0,
-                "Production_unite":"tonnes",
+                "Production": 950.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lubefu",
                 "Province": "Sankuru",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3200.0
+                "Nbre_agriculteur": 3200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [24.434,-4.902]
+                "coordinates": [24.434, -4.902]
             },
             "id": "nc73768381"
         },
@@ -1797,160 +1794,160 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":2950.0,
-                "Production_unite":"tonnes",
+                "Production": 2950.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lubero",
-                "Province": "Sud-Ubangi ",
-                "climat_id":1,
-                "climat_libelle": "Climat équatorial",
+                "Province": "Nord-Kivu",
+                "climat_id": 3,
+                "climat_libelle": "Climat de montagne",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6200.0
+                "Nbre_agriculteur": 6200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29.235,-0.321]
+                "coordinates": [29.235, -0.321]
             },
             "id": "nc73768382"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":710.0,
-                "Production_unite":"tonnes",
+                "Production": 710.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lubudi",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1562.0
+                "Nbre_agriculteur": 1562.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [25.966,-10.085]
+                "coordinates": [25.966, -10.085]
             },
             "id": "nc73768383"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1540.0,
-                "Production_unite":"tonnes",
+                "Production": 1540.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lubutu",
                 "Province": "Maniema",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [26.581,-0.904]
+                "coordinates": [26.581, -0.904]
             },
             "id": "nc73768384"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":910.0,
-                "Production_unite":"tonnes",
+                "Production": 910.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Luebo",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2500.0
+                "Nbre_agriculteur": 2500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [21.418,-5.52]
+                "coordinates": [21.418, -5.52]
             },
             "id": "nc73768385"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":910.0,
-                "Production_unite":"tonnes",
+                "Production": 910.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Luilu",
                 "Province": "Lomami",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2500.0
+                "Nbre_agriculteur": 2500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [23.329,-7.104]
+                "coordinates": [23.329, -7.104]
             },
             "id": "nc73768386"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1210.0,
-                "Production_unite":"tonnes",
+                "Production": 1210.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Luiza",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3500.0
+                "Nbre_agriculteur": 3500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [22.418,-7.371]
+                "coordinates": [22.418, -7.371]
             },
             "id": "nc73768387"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1210.0,
-                "Production_unite":"tonnes",
+                "Production": 1210.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Luiza",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3500.0
+                "Nbre_agriculteur": 3500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [22.418,-7.371]
+                "coordinates": [22.418, -7.371]
             },
             "id": "nc73768388"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":2000.0,
-                "Production_unite":"tonnes",
+                "Production": 2000.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lukolela",
                 "Province": "Equateur",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4580.0
+                "Nbre_agriculteur": 4580.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [17.199,-1.239]
+                "coordinates": [17.199, -1.239]
             },
             "id": "nc73768389"
         },
@@ -1958,96 +1955,96 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":2000.0,
-                "Production_unite":"tonnes",
+                "Production": 2000.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lukalu",
                 "Province": "Kongo-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5200.0
+                "Nbre_agriculteur": 5200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.931,-5.57]
+                "coordinates": [12.931, -5.57]
             },
             "id": "nc73768390"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":200.0,
-                "Production_unite":"tonnes",
+                "Production": 200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lupatapata",
                 "Province": "Kasaï-Oriental",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1500.0
+                "Nbre_agriculteur": 1500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [23.533,-6.345]
+                "coordinates": [23.533, -6.345]
             },
             "id": "nc73768391"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Lusambo",
                 "Province": "Sankuru",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [23.434,-5.137]
+                "coordinates": [23.434, -5.137]
             },
             "id": "nc73768392"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1500.0,
-                "Production_unite":"tonnes",
+                "Production": 1500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Madimba",
                 "Province": "Kongo-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [15.15,-5.137]
+                "coordinates": [15.15, -5.137]
             },
             "id": "nc73768393"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":2500.0,
-                "Production_unite":"tonnes",
+                "Production": 2500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Mahagi",
                 "Province": "Ituri",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5500.0
+                "Nbre_agriculteur": 5500.0
             },
             "geometry": {
                 "type": "Point",
@@ -2058,16 +2055,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":3500.0,
-                "Production_unite":"tonnes",
+                "Production": 3500.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Mankanza",
                 "Province": "Equateur",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6500.0
+                "Nbre_agriculteur": 6500.0
             },
             "geometry": {
                 "type": "Point",
@@ -2078,16 +2075,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":2800.0,
-                "Production_unite":"tonnes",
+                "Production": 2800.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Malemba-nkulu",
                 "Province": "Haut-Lomami",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7700.0
+                "Nbre_agriculteur": 7700.0
             },
             "geometry": {
                 "type": "Point",
@@ -2099,16 +2096,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":2200.0,
-                "Production_unite":"tonnes",
+                "Production": 2200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Mambasa",
                 "Province": "Ituri",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
@@ -2120,16 +2117,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":3200.0,
-                "Production_unite":"tonnes",
+                "Production": 3200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Manono",
                 "Province": "Tanganyika",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6000.0
+                "Nbre_agriculteur": 6000.0
             },
             "geometry": {
                 "type": "Point",
@@ -2140,16 +2137,16 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":1300.0,
-                "Production_unite":"tonnes",
+                "Production": 1300.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Masi-manimba",
                 "Province": "Kwilu",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3600.0
+                "Nbre_agriculteur": 3600.0
             },
             "geometry": {
                 "type": "Point",
@@ -2160,20 +2157,20 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Masisi",
                 "Province": "Nord-Kivu",
-                "climat_id":2,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28.801,-1.568]
+                "coordinates": [28.801, -1.568]
             },
             "id": "nc73768100"
         },
@@ -2181,160 +2178,160 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Mbanza-ngungu",
                 "Province": "Kongo-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [14.848,-5.438]
+                "coordinates": [14.848, -5.438]
             },
             "id": "nc73768101"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":520.0,
-                "Production_unite":"tonnes",
+                "Production": 520.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Miabi",
                 "Province": "Kasaï-Oriental",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2500.0
+                "Nbre_agriculteur": 2500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [23.384,-6.367]
+                "coordinates": [23.384, -6.367]
             },
             "id": "nc73768102"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1520.0,
-                "Production_unite":"tonnes",
+                "Production": 1520.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Mitwaba",
                 "Province": "Haut-Katanga",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5500.0
+                "Nbre_agriculteur": 5500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [27.328,-8.801]
+                "coordinates": [27.328, -8.801]
             },
             "id": "nc73768103"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":120.0,
-                "Production_unite":"tonnes",
+                "Production": 120.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Moanda",
                 "Province": "Kongo-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":700.0
+                "Nbre_agriculteur": 700.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.349,-6.105]
+                "coordinates": [12.349, -6.105]
             },
             "id": "nc73768104"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":650.0,
-                "Production_unite":"tonnes",
+                "Production": 650.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Moba",
                 "Province": "Tanganyika",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1700.0
+                "Nbre_agriculteur": 1700.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29.718,-7.234]
+                "coordinates": [29.718, -7.234]
             },
             "id": "nc73768105"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Mobayu-mbongo",
                 "Province": "Nord-Ubangi ",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5800.0
+                "Nbre_agriculteur": 5800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [21.182,4.13]
+                "coordinates": [21.182, 4.13]
             },
             "id": "nc73768106"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":802.0,
-                "Production_unite":"tonnes",
+                "Production": 802.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Monkoto",
                 "Province": "Tshuapa",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5500.0
+                "Nbre_agriculteur": 5500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [20.649,-1.788]
+                "coordinates": [20.649, -1.788]
             },
             "id": "nc73768107"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":802.0,
-                "Production_unite":"tonnes",
+                "Production": 802.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Mushie",
                 "Province": "Mai-Ndombe",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5500.0
+                "Nbre_agriculteur": 5500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [16.919,-3.187]
+                "coordinates": [16.919, -3.187]
             },
             "id": "nc73768108"
         },
@@ -2342,40 +2339,40 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":930.0,
-                "Production_unite":"tonnes",
+                "Production": 930.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Mutshatsha",
                 "Province": "Lualaba",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6020.0
+                "Nbre_agriculteur": 6020.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [24.45,-10.82]
+                "coordinates": [24.45, -10.82]
             },
             "id": "nc73768109"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1800.0,
-                "Production_unite":"tonnes",
+                "Production": 1800.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Mueka",
                 "Province": "Kasaï-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8200.0
+                "Nbre_agriculteur": 8200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [21.583,-5.039]
+                "coordinates": [21.583, -5.039]
             },
             "id": "nc73768110"
         },
@@ -2383,220 +2380,220 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":800.0,
-                "Production_unite":"tonnes",
+                "Production": 800.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Mwenga",
                 "Province": "Sud-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5000.0
+                "Nbre_agriculteur": 5000.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28.433,-3.22]
+                "coordinates": [28.433, -3.22]
             },
             "id": "nc73768111"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":250.0,
-                "Production_unite":"tonnes",
+                "Production": 250.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Ngandajika",
                 "Province": "Lomami",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1200.0
+                "Nbre_agriculteur": 1200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [23.967,-6.918]
+                "coordinates": [23.967, -6.918]
             },
             "id": "nc73768112"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":320.0,
-                "Production_unite":"tonnes",
+                "Production": 320.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Niangara",
                 "Province": "Haut-Uele",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":1250.0
+                "Nbre_agriculteur": 1250.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [27.883,3.5]
+                "coordinates": [27.883, 3.5]
             },
             "id": "nc73768113"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1100.0,
-                "Production_unite":"tonnes",
+                "Production": 1100.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Nyirangongo",
                 "Province": "Nord-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29.246,-1.678]
+                "coordinates": [29.246, -1.678]
             },
             "id": "nc73768114"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Nyunzu",
                 "Province": "Tanganyika",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5800.0
+                "Nbre_agriculteur": 5800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28.015,-6.121]
+                "coordinates": [28.015, -6.121]
             },
             "id": "nc73768115"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Opala",
                 "Province": "Tshopo",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5800.0
+                "Nbre_agriculteur": 5800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [24.351,-0.788]
+                "coordinates": [24.351, -0.788]
             },
             "id": "nc73768116"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":800.0,
-                "Production_unite":"tonnes",
+                "Production": 800.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Oshwue",
                 "Province": "Mai-Ndombe",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4200.0
+                "Nbre_agriculteur": 4200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [19.501,-3.5558]
+                "coordinates": [19.501, -3.5558]
             },
             "id": "nc73768117"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1800.0,
-                "Production_unite":"tonnes",
+                "Production": 1800.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Pangi",
                 "Province": "Maniema",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":5500.0
+                "Nbre_agriculteur": 5500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [26.631,-3.352]
+                "coordinates": [26.631, -3.352]
             },
             "id": "nc73768118"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":950.0,
-                "Production_unite":"tonnes",
+                "Production": 950.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Poko",
                 "Province": "Bas-Uele",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4520.0
+                "Nbre_agriculteur": 4520.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [26.966,2.929]
+                "coordinates": [26.966, 2.929]
             },
             "id": "nc73768119"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":752.0,
-                "Production_unite":"tonnes",
+                "Production": 752.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Popokabaka",
                 "Province": "Kwango ",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3200.0
+                "Nbre_agriculteur": 3200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [16.584,-5.887]
+                "coordinates": [16.584, -5.887]
             },
             "id": "nc73768120"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":752.0,
-                "Production_unite":"tonnes",
+                "Production": 752.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Maniema",
                 "Province": "Punia",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4520.0
+                "Nbre_agriculteur": 4520.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [26.45,-1.639]
+                "coordinates": [26.45, -1.639]
             },
             "id": "nc73768121"
         },
@@ -2604,20 +2601,20 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":752.0,
-                "Production_unite":"tonnes",
+                "Production": 752.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Pweto",
                 "Province": "Haut-Katanga",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4520.0
+                "Nbre_agriculteur": 4520.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28.9,-8.638]
+                "coordinates": [28.9, -8.638]
             },
             "id": "nc73768122"
         },
@@ -2625,20 +2622,20 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":980.0,
-                "Production_unite":"tonnes",
+                "Production": 980.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Rungu",
                 "Province": "Haut-Uele",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4200.0
+                "Nbre_agriculteur": 4200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [27.916,3.012]
+                "coordinates": [27.916, 3.012]
             },
             "id": "nc73768123"
         },
@@ -2646,20 +2643,20 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":980.0,
-                "Production_unite":"tonnes",
+                "Production": 980.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Rutshuru",
                 "Province": "Nord-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4210.0
+                "Nbre_agriculteur": 4210.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29.449,-1.354]
+                "coordinates": [29.449, -1.354]
             },
             "id": "nc73768124"
         },
@@ -2667,160 +2664,160 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Sakania",
                 "Province": "Haut-Katanga",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7800.0
+                "Nbre_agriculteur": 7800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28.548,-12.916]
+                "coordinates": [28.548, -12.916]
             },
             "id": "nc73768125"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Sandoa",
                 "Province": "Lualaba",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7800.0
+                "Nbre_agriculteur": 7800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [22.868,-9.869]
+                "coordinates": [22.868, -9.869]
             },
             "id": "nc73768126"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":850.0,
-                "Production_unite":"tonnes",
+                "Production": 850.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Seke-banza",
                 "Province": "Lualaba",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.266,-5.498]
+                "coordinates": [13.266, -5.498]
             },
             "id": "nc73768127"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1350.0,
-                "Production_unite":"tonnes",
+                "Production": 1350.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Shabunda",
                 "Province": "Sud-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":8500.0
+                "Nbre_agriculteur": 8500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [27.35,-2.869]
+                "coordinates": [27.35, -2.869]
             },
             "id": "nc73768128"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1100.0,
-                "Production_unite":"tonnes",
+                "Production": 1100.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Songololo",
                 "Province": "Kongo-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7500.0
+                "Nbre_agriculteur": 7500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [14.035,-5.87]
+                "coordinates": [14.035, -5.87]
             },
             "id": "nc73768129"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1100.0,
-                "Production_unite":"tonnes",
+                "Production": 1100.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Tshela",
                 "Province": "Kongo-Central",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":7500.0
+                "Nbre_agriculteur": 7500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.931,-5.137]
+                "coordinates": [12.931, -5.137]
             },
             "id": "nc73768130"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":120.0,
-                "Production_unite":"tonnes",
+                "Production": 120.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Tshilenge",
                 "Province": "Kasaï-Oriental",
-                "climat_id":2,
+                "climat_id": 2,
                 "climat_libelle": "Climat tropical",
                 "sol": "Sableux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":2500.0
+                "Nbre_agriculteur": 2500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [23.769,-6.422]
+                "coordinates": [23.769, -6.422]
             },
             "id": "nc73768131"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":450.0,
-                "Production_unite":"tonnes",
+                "Production": 450.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Ubungu",
                 "Province": "Tshopo",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3200.0
+                "Nbre_agriculteur": 3200.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [25.417,-0.519]
+                "coordinates": [25.417, -0.519]
             },
             "id": "nc73768132"
         },
@@ -2828,120 +2825,120 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":1250.0,
-                "Production_unite":"tonnes",
+                "Production": 1250.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Uvira",
                 "Province": "Sud-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6210.0
+                "Nbre_agriculteur": 6210.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29.136,-3.604]
+                "coordinates": [29.136, -3.604]
             },
             "id": "nc73768133"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1250.0,
-                "Production_unite":"tonnes",
+                "Production": 1250.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Walikale",
                 "Province": "Nord-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6210.0
+                "Nbre_agriculteur": 6210.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28.032,-1.585]
+                "coordinates": [28.032, -1.585]
             },
             "id": "nc73768134"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":1250.0,
-                "Production_unite":"tonnes",
+                "Production": 1250.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Walungu",
                 "Province": "Sud-Kivu",
-                "climat_id":3,
+                "climat_id": 3,
                 "climat_libelle": "Climat de montagne",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6210.0
+                "Nbre_agriculteur": 6210.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28.669,-2.803]
+                "coordinates": [28.669, -2.803]
             },
             "id": "nc73768135"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":850.0,
-                "Production_unite":"tonnes",
+                "Production": 850.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Wamba",
                 "Province": "Haut-Uele",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [27.999,1.98]
+                "coordinates": [27.999, 1.98]
             },
             "id": "nc73768136"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":850.0,
-                "Production_unite":"tonnes",
+                "Production": 850.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Watsa",
                 "Province": "Haut-Uele",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Limoneux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29.515,2.863]
+                "coordinates": [29.515, 2.863]
             },
             "id": "nc73768137"
         },
         {
             "type": "Feature",
             "properties": {
-                "Production":550.0,
-                "Production_unite":"tonnes",
+                "Production": 550.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Yahuma",
                 "Province": "Tshopo",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":3800.0
+                "Nbre_agriculteur": 3800.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [23.115,0.964]
+                "coordinates": [23.115, 0.964]
             },
             "id": "nc73768138"
         },
@@ -2949,20 +2946,20 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":780.0,
-                "Production_unite":"tonnes",
+                "Production": 780.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Yakoma",
                 "Province": "Nord-Ubangi ",
-                "climat_id":1,
+                "climat_id": 1,
                 "climat_libelle": "Climat équatorial",
                 "sol": "Humifère",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":4500.0
+                "Nbre_agriculteur": 4500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [22.302,3.708]
+                "coordinates": [22.302, 3.708]
             },
             "id": "nc73768139"
         },
@@ -2970,20 +2967,20 @@
         {
             "type": "Feature",
             "properties": {
-                "Production":1200.0,
-                "Production_unite":"tonnes",
+                "Production": 1200.0,
+                "Production_unite": "tonnes",
                 "Territoire": "Yumbi",
                 "Province": "Mai-Ndombe",
-                "climat_id":2,
-                "climat_libelle": "Climat tropical",
+                "climat_id": 1,
+                "climat_libelle": "Climat équatorial",
                 "sol": "Argileux",
                 "url": "data.geojson",
                 "detail": "data.geojson",
-                "Nbre_agriculteur":6500.0
+                "Nbre_agriculteur": 6500.0
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [16.567,-2.068]
+                "coordinates": [16.567, -2.068]
             },
             "id": "nc73768140"
         }

@@ -1,10 +1,10 @@
 <template>
     
-    <div class="p-0 m-0 h-[100vh] w-[100%]">
-        <div class="map-header flex items-center shadow-sm border-l-2 border-cyan-500">
+    <div class="p-0 m-0" style="height:100vh; width:100%">
+        <!--<div class="map-header flex items-center shadow-sm border-l-2 border-cyan-500">
            <h2 class="map-logo text-black">SNIA</h2>
            <router-link :to="{name:'stats'}" class="absolute right-4 rounded-md border border-transparent transition-all duration-500 px-4 py-2 text-sm font-medium bg-cyan-500 text-white shadow-sm hover:bg-cyan-800">Statistics preview</router-link>
-        </div>
+        </div>-->
         <map-prev url='assets/data.geojson' />
     </div>
 </template>
