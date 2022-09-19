@@ -50,27 +50,28 @@
                   ></span>
                 </div>
               </form>
-              <a
-                data-aos="fade-right"
-                href="#"
-                class="btn btn-jumbotron nav_menu hidden-xs"
-                style="color: #000"
-                >Tous</a
-              >
-              <router-link
-                :to="{ name: 'map' }"
-                data-aos="fade-right"
-                href="#"
-                class="btn btn-jumbotron nav_menu hidden-xs"
-                >Cartographies</router-link
-              >
-              <router-link
-                :to="{ name: 'stats' }"
-                data-aos="fade-left"
-                href="#"
-                class="btn btn-jumbotron nav_menu hidden-xs"
-                >Statistiques</router-link
-              >
+              <div class="filter">
+                <a
+                  data-aos="fade-right"
+                  href="#"
+                  class="btn btn-filter nav_menu hidden-xs"
+                  >Tous</a
+                >
+                <router-link
+                  :to="{ name: 'map' }"
+                  data-aos="fade-right"
+                  href="#"
+                  class="btn btn-filter nav_menu hidden-xs"
+                  >Cartographies</router-link
+                >
+                <router-link
+                  :to="{ name: 'stats' }"
+                  data-aos="fade-left"
+                  href="#"
+                  class="btn btn-filter nav_menu hidden-xs"
+                  >Statistiques</router-link
+                >
+              </div>
               <!-- end .bkb_filter_container -->
               <!-- end #search-form  -->
             </div>

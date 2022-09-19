@@ -1,8 +1,17 @@
 <template>
   <div id="viewDiv" class="shadow">
     <div id="baseMapDiv" style="height: 200px; width: 100px"></div>
-    <div id="export">
-      <a href="#" class="esri-button"><i class="fa fa-print" style="margin-right:2px"></i> Exporter la cartographie</a>
+    <div id="map-filter" style="display: none">
+      <a href="#" @click="$emit('onFiltered')" class="esri-button"
+        ><i class="fa fa-bar-chart" style="margin-right: 2px"></i> Filtrer les
+        données à afficher</a
+      >
+    </div>
+    <div id="export" style="display: none">
+      <a href="#" class="esri-button"
+        ><i class="fa fa-print" style="margin-right: 2px"></i> Exporter la
+        cartographie</a
+      >
     </div>
   </div>
 </template>
@@ -11,7 +20,6 @@
 /* eslint-disable */
 import Map from "@arcgis/core/Map";
 import GeoJSONLayer from "@arcgis/core/layers/GeoJSONLayer";
-//import MapView from "@arcgis/core/views/SceneView";
 import MapView from "@arcgis/core/views/SceneView";
 import Search from "@arcgis/core/widgets/Search";
 import BasemapGallery from "@arcgis/core/widgets/BasemapGallery";
@@ -53,7 +61,6 @@ export default {
   },
   methods: {
     loadMap() {
-    
       const url = this.url;
       /*const template = {
         title: "SNIA Cartographie agricole",
@@ -211,7 +218,10 @@ export default {
       view.ui.add(legend, "bottom-left");
       //view.ui.add(print, "top-right");
       view.when(() => {
-        view.ui.add("export","top-right")
+        document.getElementById("export").style.display = "block";
+        document.getElementById("map-filter").style.display = "block";
+        view.ui.add("export", "top-right");
+        view.ui.add("map-filter", "top-left");
         const layer = view.map.layers.getItemAt(0);
         layer.title = "Legende de données agricoles";
       });

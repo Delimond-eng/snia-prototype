@@ -66,6 +66,43 @@ fieldset {
     text-align: start;
 }
 
+.filter {
+    text-align: start;
+    margin-top: 8px;
+}
+
+.filter .btn-filter:first-child {
+    background-color: #02222e;
+    border: 1px solid #02222e;
+    color: #ffffff;
+}
+
+.filter .btn-filter {
+    background: #ddedf5;
+    border: 1px solid #02222e;
+    color: #000;
+    height: 40px;
+    line-height: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    letter-spacing: 0.03em;
+    font-weight: 600;
+    margin-right: 10px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    transition: all 500ms;
+}
+
+.filter .btn-filter:hover {
+    border: 1px solid #02222e;
+    background-color: #02222e;
+    color: #FFFFFF;
+}
+
 
 /* checkbox-rect */
 
@@ -137,8 +174,10 @@ fieldset {
 .checkbox-rect2 input[type="checkbox"]+label {
     display: inline-block;
     position: relative;
-    padding-left: 40px;
-    margin-bottom: 8px;
+    padding-left: 30px;
+    margin-bottom: 5px;
+    color: rgb(43, 40, 40);
+    font-size: 15px;
     cursor: pointer;
     font-family: 'Poppins' sans-serif;
     -webkit-user-select: none;
@@ -698,3 +737,154 @@ fieldset {
 
 
 /* toggle-pill-dark end */
+
+
+/* MODAL
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.gmodal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.384);
+    cursor: pointer;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.35s ease-in;
+}
+
+.gmodal.is-visible {
+    visibility: visible;
+    opacity: 1;
+}
+
+.gmodal-dialog {
+    position: relative;
+    width: 800px;
+    max-height: 80vh;
+    border-radius: 5px;
+    background-color: #fff;
+    overflow: auto;
+    cursor: default;
+}
+
+.gmodal-dialog>* {
+    padding: 1rem;
+}
+
+.gmodal-header,
+.gmodal-footer {
+    background-color: #cee5f3;
+}
+
+.gmodal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    color: #02222e;
+    text-transform: uppercase;
+}
+
+.gmodal-header .close-modal {
+    font-size: 1.5rem;
+}
+
+.gmodal p {
+    color: #000;
+    font-weight: normal;
+}
+
+
+/* ANIMATIONS
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+[data-animation] .gmodal-dialog {
+    opacity: 0;
+    transition: all 0.5s cubic-bezier(0.51, 0.92, 0.24, 1.15);
+}
+
+[data-animation].is-visible .gmodal-dialog {
+    opacity: 1;
+    transition-delay: 0.2s;
+}
+
+[data-animation="slideInOutDown"] .gmodal-dialog {
+    transform: translateY(100%);
+}
+
+[data-animation="slideInOutTop"] .gmodal-dialog {
+    transform: translateY(-100%);
+}
+
+[data-animation="slideInOutLeft"] .gmodal-dialog {
+    transform: translateX(-100%);
+}
+
+[data-animation="slideInOutRight"] .gmodal-dialog {
+    transform: translateX(100%);
+}
+
+[data-animation="zoomInOut"] .gmodal-dialog {
+    transform: scale(0.2);
+}
+
+[data-animation="rotateInOutDown"] .gmodal-dialog {
+    transform-origin: top left;
+    transform: rotate(-1turn);
+}
+
+[data-animation="mixInAnimations"].is-visible .gmodal-dialog {
+    animation: mixInAnimations 2s 0.2s linear forwards;
+}
+
+[data-animation="slideInOutDown"].is-visible .gmodal-dialog,
+[data-animation="slideInOutTop"].is-visible .gmodal-dialog,
+[data-animation="slideInOutLeft"].is-visible .gmodal-dialog,
+[data-animation="slideInOutRight"].is-visible .gmodal-dialog,
+[data-animation="zoomInOut"].is-visible .gmodal-dialog,
+[data-animation="rotateInOutDown"].is-visible .gmodal-dialog {
+    transform: none;
+}
+
+@keyframes mixInAnimations {
+    0% {
+        transform: translateX(-100%);
+    }
+    10% {
+        transform: translateX(0);
+    }
+    20% {
+        transform: rotate(20deg);
+    }
+    30% {
+        transform: rotate(-20deg);
+    }
+    40% {
+        transform: rotate(15deg);
+    }
+    50% {
+        transform: rotate(-15deg);
+    }
+    60% {
+        transform: rotate(10deg);
+    }
+    70% {
+        transform: rotate(-10deg);
+    }
+    80% {
+        transform: rotate(5deg);
+    }
+    90% {
+        transform: rotate(-5deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
