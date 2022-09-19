@@ -56,31 +56,6 @@
                       data-search-box-unique-id="2455185277"
                       type="text"
                     />
-
-                    <a
-                      data-aos="fade-right"
-                      href="#ask_question"
-                      class="btn btn-jumbotron nav_menu hidden-xs"
-                      >Culture</a
-                    >
-                    <a
-                      data-aos="fade-right"
-                      href="#ask_question"
-                      class="btn btn-jumbotron nav_menu hidden-xs"
-                      >Semence</a
-                    >
-                    <a
-                      data-aos="fade-left"
-                      href="#ask_question"
-                      class="btn btn-jumbotron nav_menu hidden-xs"
-                      >Fertilisant</a
-                    >
-                    <a
-                      data-aos="fade-left"
-                      href="#ask_question"
-                      class="btn btn-jumbotron nav_menu hidden-xs"
-                      >Maladies</a
-                    >
                   </div>
                   <!-- end .bkb_filter_container -->
                 </form>

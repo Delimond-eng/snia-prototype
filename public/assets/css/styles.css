@@ -940,6 +940,7 @@ span.label {
     border: 1px solid #EBEBEB;
     background: #40C1F0;
     color: #FFFFFF;
+    font-size: 1.2em;
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
     border-radius: 0px;
@@ -950,7 +951,7 @@ span.label {
 }
 
 .btn-custom:hover {
-    border-color: #c5c5c5;
+    border-color: #40C1F0;
     color: #40C1F0;
     background: #FFFFFF;
 }
@@ -1298,7 +1299,7 @@ a.btn-sm-load-more {
 }
 
 .main-header-2 #jumbotron_1 .jumbotron-content {
-    top: 20%;
+    top: 50%;
 }
 
 .logo {
@@ -1631,7 +1632,7 @@ header.one-page .navbar-nav>li>a span {
 #jumbotron_1 .jumbotron-content {
     z-index: 1;
     position: absolute;
-    top: 20%;
+    top: 30%;
     width: 100%;
 }
 
@@ -2963,7 +2964,7 @@ p.bkb_question_submit_container {
     background: transparent;
     clear: both;
     font: 16px/28px 'Source Sans Pro', sans-serif;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     overflow: hidden;
 }
 
@@ -3031,7 +3032,7 @@ body.reply-edit .reply {
 #bbpress-forums ul.bbp-search-results {
     border: 1px solid #eee;
     clear: both;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     overflow: hidden;
 }
 
@@ -4497,12 +4498,12 @@ ul.pagination li:last-child {
 /*----- 10.1.1 INFO BOX LAYOUT 01 ----*/
 
 .info-box-layout-1 {
-    text-align: center;
+    text-align: left;
     background: #FFFFFF;
-    border: 1px solid #EBEBEB;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
     position: relative;
-    margin: 12px 0 42px;
-    padding: 24px 24px;
+    margin: 6px 0 21px;
+    padding: 12px 12px;
 }
 
 .info-box-layout-1 span.fa {
@@ -4541,12 +4542,13 @@ ul.pagination li:last-child {
     position: absolute;
     content: '';
     bottom: -8px;
-    left: 50%;
+    left: 15px;
     display: block;
-    width: 32px;
+    width: 100%;
+    margin-bottom: 5px;
     margin-left: -16px;
-    height: 2px;
-    background: #40C1F0;
+    height: 1px;
+    background: #40c1f07c;
 }
 
 .info-box-layout-1 p {
@@ -4563,21 +4565,6 @@ ul.pagination li:last-child {
     -webkit-background-clip: padding-box;
     -moz-background-clip: padding;
     background-clip: padding-box;
-}
-
-.info-box-layout-1:hover {
-    background: #fbfbfb;
-}
-
-.info-box-layout-1:hover span.fa {
-    color: #FFFFFF;
-    background: #119fd3;
-}
-
-.info-box-layout-1:hover h2:after {
-    background: #ceeffb;
-    width: 32px;
-    height: 2px;
 }
 
 .info-box-layout-1:hover a.btn {
@@ -6124,7 +6111,7 @@ ol.none-list li a:before {
 .message-container-404 .search-form-404 {
     margin: 0 auto;
     padding: 5px 5px;
-    width: 40%;
+    width: 100%;
 }
 
 .message-container-404 .message-text-404 {
@@ -6426,8 +6413,9 @@ footer a:hover {
 
 .widget {
     background: #eff6fd;
-    margin-bottom: 42px;
-    padding: 20px;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-bottom: 1px solid #00b9ff;
 }
 
 .site-sidebar .badge {
@@ -6546,7 +6534,7 @@ footer a:hover {
 }
 
 .single-recent-post {
-    margin-bottom: 26px;
+    margin-bottom: 0px;
     overflow: hidden;
 }
 
@@ -6635,24 +6623,6 @@ footer a:hover {
 
 
 /***********************************************************************************************/
-
-
-/* Widget Link Color */
-
-
-/***********************************************************************************************/
-
-.sidebar-widget a {
-    color: #626262;
-    -webkit-transition: 0.3s 0.2s ease-out;
-    -moz-transition: 0.3s 0.2s ease-out;
-    -o-transition: 0.3s 0.2s ease-out;
-    transition: 0.3s 0.2s ease-out;
-}
-
-.sidebar-widget a:hover {
-    color: #40C1F0;
-}
 
 
 /***********************************************************************************************/

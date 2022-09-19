@@ -32,165 +32,161 @@
   ```
 -->
   <div>
-  <nav-header/>
-    <!--
-    Mobile menu
+    <div class="top-bar">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-sm-12">
+            <span class="top-email-info">
+              <router-link
+                to="/"
+                class="little-logo"
+                data-aos="fade-right"
+                style="font-weight: 900; font-size: 1.6em"
+                >SNIA</router-link
+              >
+            </span>
+          </div>
+          <!-- end col-sm-6  -->
+        </div>
+        <!-- end .row  -->
+      </div>
+      <!--  end .container -->
+    </div>
+    <!-- end main-header  -->
 
-    Off-canvas menu for mobile, show/hide based on off-canvas menu state.
-  -->
-    <!-- Links -->
-    <div class="mt-2">
+    <section class="section-content-block">
+      <div class="container">
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-8 col-md-offset-2 col-sm-12 text-center">
+            <h2 class="section-heading">Cartographie de données agricoles</h2>
+            <p class="section-subheading">
+              Veuillez sélectionner des données que vous voulez cartographier !
+            </p>
+          </div>
+          <!-- end .col-sm-10  -->
+        </div>
+        <!--  end .row  -->
 
-      <!-- 'Women' tab panel, show/hide based on tab state. -->
-      <div class="space-y-10 px-4 pt-10 pb-8">
-        <div class="relative inset-x-0 top-full text-sm text-gray-500">
-          <!-- Presentational element used to render the bottom shadow, if we put the shadow on the actual panel it pokes out the top, so we use this shorter element to hide the top of the shadow -->
-          <div class="absolute inset-0 top-0 bg-white rounded-[10px] shadow" aria-hidden="true"></div>
+        <div class="row">
+          <div class="col-md-4 col-sm-12">
+            <article class="info-box-layout-1" data-aos="zoom-in">
+              <h2>Climat</h2>
 
-          <div class="relative bg-white rounded-[10px]">
-            <div class="mx-auto max-w-7xl px-8 pb-4">
-              <div class="grid grid-cols-2 gap-y-10 gap-x-8 py-16">
-                <div class="col-start-2 grid grid-cols-1 gap-x-8">
-                  <div class=" w-full px-4 sm:px-6">
-                    <div
-                      class="h-full w-full px-4 flex flex-col align-middle justify-center border-4 border-dashed rounded-[15px] border-gray-200"
-                      aria-hidden="true">
-                      <h2 class="text-center text-red-900">Veuillez sélectionner dont vous voulez obtenir les
-                        informations</h2>
-                    </div>
-                  </div>
-                </div>
-                <div class="row-start-1 grid grid-cols-3 gap-y-10 gap-x-8 text-sm">
-                  <div>
-                    <p id="Clothing-heading" class="font-medium text-gray-900">Clothing</p>
-                    <div class="mt-4 space-y-4">
-                      <div class="flex items-start">
-                        <div class="flex h-5 items-center">
-                          <input id="comments" name="comments" type="checkbox"
-                            class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                        </div>
-                        <div class="ml-3 text-sm">
-                          <label for="comments" class="font-medium text-gray-700">Comments</label>
-
-                        </div>
-                      </div>
-                      <div class="flex items-start">
-                        <div class="flex h-5 items-center">
-                          <input id="candidates" name="candidates" type="checkbox"
-                            class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                        </div>
-                        <div class="ml-3 text-sm">
-                          <label for="candidates" class="font-medium text-gray-700">Candidates</label>
-
-                        </div>
-                      </div>
-                      <div class="flex items-start">
-                        <div class="flex h-5 items-center">
-                          <input id="offers" name="offers" type="checkbox"
-                            class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                        </div>
-                        <div class="ml-3 text-sm">
-                          <label for="offers" class="font-medium text-gray-700">Offers</label>
-
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div>
-                    <p id="Clothing-heading" class="font-medium text-gray-900">Clothing</p>
-                    <div class="mt-4 space-y-4">
-                      <div class="flex items-start">
-                        <div class="flex h-5 items-center">
-                          <input id="comments" name="comments" type="checkbox"
-                            class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                        </div>
-                        <div class="ml-3 text-sm">
-                          <label for="comments" class="font-medium text-gray-700">Comments</label>
-
-                        </div>
-                      </div>
-                      <div class="flex items-start">
-                        <div class="flex h-5 items-center">
-                          <input id="candidates" name="candidates" type="checkbox"
-                            class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                        </div>
-                        <div class="ml-3 text-sm">
-                          <label for="candidates" class="font-medium text-gray-700">Candidates</label>
-
-                        </div>
-                      </div>
-                      <div class="flex items-start">
-                        <div class="flex h-5 items-center">
-                          <input id="offers" name="offers" type="checkbox"
-                            class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                        </div>
-                        <div class="ml-3 text-sm">
-                          <label for="offers" class="font-medium text-gray-700">Offers</label>
-
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div>
-                    <p id="Clothing-heading" class="font-medium text-gray-900">Clothing</p>
-                    <div class="mt-4 space-y-4">
-                      <div class="flex items-start">
-                        <div class="flex h-5 items-center">
-                          <input id="comments" name="comments" type="checkbox"
-                            class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                        </div>
-                        <div class="ml-3 text-sm">
-                          <label for="comments" class="font-medium text-gray-700">Comments</label>
-
-                        </div>
-                      </div>
-                      <div class="flex items-start">
-                        <div class="flex h-5 items-center">
-                          <input id="candidates" name="candidates" type="checkbox"
-                            class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                        </div>
-                        <div class="ml-3 text-sm">
-                          <label for="candidates" class="font-medium text-gray-700">Candidates</label>
-
-                        </div>
-                      </div>
-                      <div class="flex items-start">
-                        <div class="flex h-5 items-center">
-                          <input id="offers" name="offers" type="checkbox"
-                            class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                        </div>
-                        <div class="ml-3 text-sm">
-                          <label for="offers" class="font-medium text-gray-700">Offers</label>
-
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                 
+              <div class="item-box">
+                <div class="checkbox-rect2" data-aos="fade-left">
+                  <input type="checkbox" id="tropical" name="check" />
+                  <label for="tropical">Climat tropical</label>
                 </div>
               </div>
-              <div class="mt-3 mb-3 sm:mt-0 sm:ml-3">
-              <router-link :to="{name:'map'}" class="flex shadow items-center transition-all duration-500 justify-center rounded-md border-none border-transparent bg-cyan-600 px-8 py-3 text-base font-medium text-white hover:bg-cyan-200 md:py-2 md:px-10 md:text-lg"> Preview result</router-link>
-            </div>
-            </div>
-
+              <div class="item-box">
+                <div class="checkbox-rect2" data-aos="fade-left">
+                  <input type="checkbox" id="equatorial" name="check" />
+                  <label for="equatorial">Climat équatorial</label>
+                </div>
+              </div>
+              <div class="item-box">
+                <div class="checkbox-rect2" >
+                  <input type="checkbox" id="mont" name="check" />
+                  <label for="mont">Climat de montagne</label>
+                </div>
+              </div>
+            </article>
           </div>
+          <!--  end col-sm-6  -->
+
+          <div class="col-md-4 col-sm-12">
+            <article class="info-box-layout-1" data-aos="zoom-in">
+              <h2>Cultures</h2>
+              <div class="item-box">
+                <div class="checkbox-rect2" data-aos="fade-left">
+                  <input type="checkbox" id="prod" name="check" />
+                  <label for="prod">Production</label>
+                </div>
+              </div>
+              <div class="item-box">
+                <div class="checkbox-rect2" data-aos="fade-left">
+                  <input type="checkbox" id="dist" name="check" />
+                  <label for="dist">Distribution</label>
+                </div>
+              </div>
+              <div class="item-box">
+                <div class="checkbox-rect2" data-aos="fade-left">
+                  <input type="checkbox" id="plant" name="check" />
+                  <label for="plant">Plantation</label>
+                </div>
+              </div>
+            </article>
+          </div>
+          <!--  end col-sm-6  -->
+
+          <div class="col-md-4 col-sm-12">
+            <article class="info-box-layout-1" data-aos="zoom-in">
+              <h2>Intrants</h2>
+
+              <div class="item-box">
+                <div class="checkbox-rect2" data-aos="fade-left">
+                  <input type="checkbox" id="sem" name="check" />
+                  <label for="sem">Semence</label>
+                  <label for="sem">Semence</label>
+                </div>
+              </div>
+              <div class="item-box">
+                <div class="checkbox-rect2" data-aos="fade-left">
+                  <input type="checkbox" id="fert" name="check" />
+                  <label for="fert">Fertilisant</label>
+                </div>
+              </div>
+              <div class="item-box">
+                <div class="checkbox-rect2" data-aos="fade-left">
+                  <input type="checkbox" id="pest" name="check" />
+                  <label for="pest">Pesticide</label>
+                </div>
+              </div>
+            </article>
+          </div>
+          <!--  end col-sm-6  -->
+        </div>
+        <!-- end row  -->
+
+        <div class="text-center" data-aos="fade-down">
+          <router-link :to="{ name: 'map' }" class="btn btn-custom">
+            <i class="fa fa-map"></i>
+            Afficher le resultat cartographié
+          </router-link>
         </div>
       </div>
+      <!-- end .container  -->
+    </section>
 
-    </div>
+    <footer>
+      <section class="footer-contents">
+        <div class="container">
+          <div class="row clearfix">
+            <div class="col-md-12 col-sm-12">
+              <p class="copyright-text">
+                Tous droits reservés © 2022 -
+                <a href="http://bluewindlab.net/" target="_blank"
+                  >RT GROUP SARL RDC</a
+                >
+              </p>
+            </div>
+            <!-- end .col-sm-6  -->
+          </div>
+        </div>
+      </section>
+    </footer>
   </div>
-
 </template>
 
 <script>
-  export default {
-    name: 'FilterPage',
-    data() {
-      return {}
-    },
-  }
+export default {
+  name: "FilterPage",
+  data() {
+    return {};
+  },
+};
 </script>
+
+<style>
+@import url("@/assets/css/style.css");
+</style>

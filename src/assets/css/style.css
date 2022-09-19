@@ -44,23 +44,26 @@ Headers:		'Roboto', sans-serif;
 
 -------------------------------------------------------------------*/
 
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, 300px);
-    /* minmax(300px, 1fr)*/
-    grid-gap: 30px;
-    padding: 20px;
-    justify-items: center;
-    justify-content: center;
-    align-items: start;
+.item-box {
+    margin-bottom: 1em;
+    text-align: left;
 }
 
-.box {
-    padding: 2em;
+legend {
+    background-color: rgb(223, 243, 248);
+    color: rgb(7, 159, 197);
+    padding: 5px 12px;
+    margin-bottom: 5px;
+    font-weight: 600;
+    width: 100px;
+    text-align: center;
 }
 
-.item {
-    margin-bottom: 2em;
+fieldset {
+    border: 1px solid #d4e8f5;
+    padding: 0 10px 5px;
+    margin-bottom: 10px;
+    text-align: start;
 }
 
 
@@ -132,12 +135,12 @@ Headers:		'Roboto', sans-serif;
 }
 
 .checkbox-rect2 input[type="checkbox"]+label {
-    display: block;
+    display: inline-block;
     position: relative;
-    padding-left: 35px;
-    margin-bottom: 20px;
-    font: 14px/20px "Open Sans", Arial, sans-serif;
+    padding-left: 40px;
+    margin-bottom: 8px;
     cursor: pointer;
+    font-family: 'Poppins' sans-serif;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -148,8 +151,7 @@ Headers:		'Roboto', sans-serif;
 }
 
 .checkbox-rect2 input[type="checkbox"]:hover+label:before {
-    border: 1px solid #343a3f;
-    box-shadow: 2px 1px 0 #343a3f;
+    border: 2px solid #198ff0;
 }
 
 .checkbox-rect2 input[type="checkbox"]+label:last-child {
@@ -161,23 +163,22 @@ Headers:		'Roboto', sans-serif;
     display: block;
     width: 1.4em;
     height: 1.4em;
-    border: 1px solid #343a3f;
+    border: 2px solid #0d75ca;
     border-radius: 0.2em;
     position: absolute;
     left: 0;
     top: 0;
     -webkit-transition: all 0.2s, background 0.2s ease-in-out;
     transition: all 0.2s, background 0.2s ease-in-out;
-    background: rgba(255, 255, 255, 0.03);
-    box-shadow: -2px -1px 0 #343a3f;
+    background: rgba(56, 90, 241, 0.03);
     background: #f3f3f3;
 }
 
 .checkbox-rect2 input[type="checkbox"]:checked+label:before {
     border: 2px solid #fff;
     border-radius: 0.3em;
-    background: #50565a;
-    box-shadow: 2px 1px 0 #50565a;
+    background: #1195ec;
+    box-shadow: 2px 1px 0 #1d8cd6;
 }
 
 

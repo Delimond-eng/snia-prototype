@@ -1,6 +1,9 @@
 <template>
   <div id="viewDiv" class="shadow">
-    <div id="baseMapDiv" style="height: 100px; width: 100px"></div>
+    <div id="baseMapDiv" style="height: 200px; width: 100px"></div>
+    <div id="export">
+      <a href="#" class="esri-button"><i class="fa fa-print" style="margin-right:2px"></i> Exporter la cartographie</a>
+    </div>
   </div>
 </template>
 
@@ -8,9 +11,11 @@
 /* eslint-disable */
 import Map from "@arcgis/core/Map";
 import GeoJSONLayer from "@arcgis/core/layers/GeoJSONLayer";
+//import MapView from "@arcgis/core/views/SceneView";
 import MapView from "@arcgis/core/views/SceneView";
 import Search from "@arcgis/core/widgets/Search";
 import BasemapGallery from "@arcgis/core/widgets/BasemapGallery";
+import Print from "@arcgis/core/widgets/Print";
 import FeatureLayer from "@arcgis/core/layers/FeatureLayer";
 import LayerList from "@arcgis/core/widgets/LayerList";
 import PopupTemplate from "@arcgis/core/PopupTemplate";
@@ -27,6 +32,7 @@ import Legend from "@arcgis/core/widgets/Legend";
 import DictionaryRenderer from "@arcgis/core/renderers/DictionaryRenderer";
 import Expand from "@arcgis/core/widgets/Expand";
 import Graphic from "@arcgis/core/Graphic";
+import Home from "@arcgis/core/widgets/Home";
 
 export default {
   name: "MapJsonGeo",
@@ -47,7 +53,7 @@ export default {
   },
   methods: {
     loadMap() {
-      this.isLoading = true;
+    
       const url = this.url;
       /*const template = {
         title: "SNIA Cartographie agricole",
@@ -105,12 +111,20 @@ export default {
             width: 0.5,
           },
         },
-
+        attributes: [
+          {
+            label: "Climat",
+            field: "climat_id",
+          },
+          {
+            field: "Production",
+            label: "Production",
+          },
+        ],
         visualVariables: [
           {
             type: "color",
             field: "climat_id",
-            label:'climat_libelle',
             legendOptions: {
               showLegend: true,
             },
@@ -124,9 +138,9 @@ export default {
             type: "size",
             field: "Production",
             minDataValue: 100,
-            maxDataValue: 2000,
-            minSize: 8,
-            maxSize: 18,
+            maxDataValue: 2500,
+            minSize: 12,
+            maxSize: 20,
           },
         ],
       };
@@ -155,6 +169,10 @@ export default {
         container: "baseMapDiv",
       });
 
+      const home = new Home({
+        view: view,
+      });
+
       const legend = new Legend({
         view: view,
       });
@@ -176,22 +194,26 @@ export default {
       const search = new Search({
         view: view,
       });
-      //basemap
-      view.ui.add(basemapGallery, "bottom-right");
+
       //map legend
       legend.style = "card";
-      view.ui.add(legend, "bottom-left");
+
+      //home btn
+      view.ui.add(home, "top-left");
       //search bar
       view.ui.add(search, "top-right");
       //view loading init
+      /*const print = new Print({
+        view: view,
+        printServiceUrl: this.url,
+      });*/
+      view.ui.add(basemapGallery, "bottom-right");
+      view.ui.add(legend, "bottom-left");
+      //view.ui.add(print, "top-right");
       view.when(() => {
-        this.isLoading = false;
-
+        view.ui.add("export","top-right")
         const layer = view.map.layers.getItemAt(0);
-        layer.title =
-          "Présentation cartographique des activités agricoles de la RDC";
-        
-        console.log("Map ready");
+        layer.title = "Legende de données agricoles";
       });
     },
   },
