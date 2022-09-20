@@ -2,7 +2,7 @@
   <div id="viewDiv" class="shadow">
     <div id="baseMapDiv" style="height: 200px; width: 100px"></div>
     <div id="map-filter" style="display: none">
-      <a href="#" @click="$emit('onFiltered')" class="esri-button"
+      <a href="#" @click.prevent="openModal" class="esri-button btn-secondary"
         ><i class="fa fa-bar-chart" style="margin-right: 2px"></i> Filtrer les
         données à afficher</a
       >
@@ -13,9 +13,9 @@
         cartographie</a
       >
     </div>
+    <native-modal @onPressed="loadMap()" />
   </div>
 </template>
-
 <script>
 /* eslint-disable */
 import Map from "@arcgis/core/Map";
@@ -49,15 +49,15 @@ export default {
       isLoading: false,
     };
   },
+  mounted() {
+    this.loadMap();
+  },
   props: {
     url: String,
   },
   destroyed() {
     this.$router.go(-1);
     console.log("destroyed");
-  },
-  mounted() {
-    this.loadMap();
   },
   methods: {
     loadMap() {
@@ -221,10 +221,14 @@ export default {
         document.getElementById("export").style.display = "block";
         document.getElementById("map-filter").style.display = "block";
         view.ui.add("export", "top-right");
-        view.ui.add("map-filter", "top-left");
+        view.ui.add("map-filter", "top-right");
         const layer = view.map.layers.getItemAt(0);
         layer.title = "Legende de données agricoles";
       });
+    },
+
+    openModal() {
+      document.getElementById("gmodal").classList.add("is-visible");
     },
   },
 };

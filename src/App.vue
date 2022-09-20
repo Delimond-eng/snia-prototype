@@ -7,13 +7,8 @@
 </template>
 
 <script>
-/* eslint-disable */
-import MapPrev from '@/components/sateliteMapView.vue'
 export default {
     name: "App",
-    components: {
-        MapPrev,
-    }
 }
 </script>
 
